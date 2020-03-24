@@ -1,9 +1,9 @@
-# reveal-skel
-## A Template for Presentations in [Reveal.js](https://github.com/hakimel/reveal.js/)
+# That My House May Be Filled
+## Luke 14:15-24
 
-[![Build status](https://travis-ci.org/sermons/reveal-skel.svg)](https://travis-ci.org/sermons/reveal-skel)
-[![Node deps](https://david-dm.org/sermons/reveal-skel.svg)](https://david-dm.org/sermons/reveal-skel)
-[![Node devDeps](https://david-dm.org/sermons/reveal-skel/dev-status.svg)](https://david-dm.org/sermons/reveal-skel?type=dev)
+[![Build status](https://travis-ci.org/sermons/filled.svg)](https://travis-ci.org/sermons/filled)
+[![Node deps](https://david-dm.org/sermons/filled.svg)](https://david-dm.org/sermons/filled)
+[![Node devDeps](https://david-dm.org/sermons/filled/dev-status.svg)](https://david-dm.org/sermons/filled?type=dev)
 
 Template presentation: [reveal-skel](https://github.com/sermons/reveal-skel)
 

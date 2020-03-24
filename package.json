@@ -1,15 +1,15 @@
 {
-  "name": "@sermons/reveal-skel",
-  "repository": "sermons/reveal-skel",
-  "description": "A template for Reveal.js-based presentations",
+  "name": "@sermons/filled",
+  "repository": "sermons/filled",
+  "description": "Lk14:15-24 That My House May Be Filled",
   "keywords": [
     "slides"
   ],
   "version": "1.7.7",
   "author": "Sean Ho <seanho@seanho.com> (http://seanho.com)",
   "config": {
-    "pretty_url": "reveal-skel.seanho.com",
-    "cname": "reveal-skel.seanho.com",
+    "pretty_url": "filled.seanho.com",
+    "cname": "filled.seanho.com",
     "multiplex": {
       "url": "https://mp.seanho.com/",
       "id": "22bc761ffc97809b"
@@ -20,14 +20,14 @@
     },
     "history": [
       {
-        "venue": "Venue of talk",
-        "city": "Location",
-        "date": "2000-01-01",
+        "venue": "Pacific Grace MB Church",
+        "city": "South Vancouver",
+        "date": "2020-03-29",
         "duration": 0
       }
     ],
     "slides": [
-      "slides/sample.md"
+      "slides/slides.md"
     ],
     "reveal": "https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.8.0",
     "mathjax": "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js",
