@@ -109,7 +109,7 @@ who were invited shall taste my banquet.’”
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" class="outline" -->
-## Parable of the Banquet [(Luke 14)](# "ref")
+## Parable of the Banquet [(Lk14)](# "ref")
 1. Invitation [(v16-17)](# "ref")
 1. Excuses [(v18-20)](# "ref")
 1. Filling [(v21-24)](# "ref")
@@ -137,7 +137,12 @@ a **king** who gave a **wedding feast** for his son
 >>>
 + plenty of **room**: huge celebration
   + king would've been very **wealthy**
-+ rare we have big **celebrations**:
++ isn't it **nice** that the **kingdom of heaven**
+  + is like a wonderful **celebration**!
+  + what beautiful **hope**
++ and God has already extended the **invitation** to us
+______
++ for us, we rarely have big **celebrations**:
   + wedding, baby shower, etc.
 + e.g., our wedding banquet had **26 tables**
   + friend's had **40**
@@ -190,8 +195,7 @@ Please have me **excused**."
 
 [19](# "ref")
 "I have bought five yoke of **oxen**, <br>
-and I go to examine them. <br>
-Please have me excused."
+and I go to examine them."
 
 [20](# "ref")
 "I have **married** a wife, <br>
@@ -268,10 +272,13 @@ But you were **unwilling**!
 # Q2
 
 >>>
-+ (prompt for pause)
++ (pause for discussion)
 
 ---
 ## outline 3
+
+>>>
++ 21-24 (Mt22:7-10) action of master
 
 ---
 Then the master of the house became **angry**<br>
@@ -285,6 +292,12 @@ and **blind** and **lame**.’
 
 [Luke 14:21 (ESV)](# "ref")
 
+>>>
++ **angry**: Mt22:7 even more severe
++ **quickly**, at once: urgency
++ streets+alleys of city: both big and small streets, anywhere
++ poor, crippled (injured in limbs), blind, lame (stopped, unable to walk)
+
 ---
 And the master said to the servant,<br>
 ‘Go out to the **highways** and **hedges**
@@ -294,6 +307,12 @@ that my house may be **filled**.
 
 [Luke 14:23 (ESV)](# "ref")
 
+>>>
++ **countryside**, farther afield: not enough guests
+  + not necessarily **poor**
+  + just **any** random person
++ **compel** them: might not be needy or as eager for a free meal
++ host's objective is to fill his house: celebrate, share his joy with those who would share his joy
 
 ---
 The wedding feast is ready, <br>
@@ -302,17 +321,7 @@ but those **invited** were not **worthy**.
 [Matthew 22:8 (ESV)](# "ref")
 
 >>>
-21-24 (Mt22:7-10) action of master:
-+ 21 anger: Mt22:7 even more severe
-+ 21 with speed, at once: urgency
-+ streets+alleys of city: both big and small streets, anywhere
-+ poor, crippled (injured in limbs), blind, lame (stopped, unable to walk)
-+ 23 roads + hedges: countryside, farther afield: not enough guests
-  + not necessarily poor, just any random person
-  + compel them: might not be needy or as eager for a free meal
-+ host's objective is to fill his house: celebrate, share his joy with those who would share his joy
 + again, guests' own accomplishments, prior relationship w/host, etc. are irrelevant
-  + Mt22:8 those invited were not worthy:
   + receiving invitation (hearing God's word) doesn't make us worthy
   + being poor doesn't make us worthy
   + being holy doesn't make us worthy
@@ -348,7 +357,6 @@ For many are **called**, but few are **chosen**.
 [Matthew 22:11-4 (ESV) (p.1/2)](# "ref")
 
 >>>
-Mt22:11-14: wedding clothes
 + clothes in Scripture: represent good deeds (e.g., Rev7:9)
   + only those with clean clothes (have done holiness) may enter
   + are the poor to buy clean, fancy wedding clothes?
@@ -365,11 +373,15 @@ Mt22:11-14: wedding clothes
 # Q3
 
 >>>
-+ (prompt for pause)
++ (pause for discussion)
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> -->
 (closing reading)
+
+>>>
++ next time: last part of ch14
+  + what it takes to be Christ's **disciple**
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="empty" -->
