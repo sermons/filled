@@ -114,45 +114,71 @@ who were invited shall taste my banquet.’”
 1. Excuses [(v18-20)](# "ref")
 1. Filling [(v21-24)](# "ref")
 
----
-... gave a great **banquet** and invited **many**.
-
-[17](# "ref")
-And at the **time** for the banquet <br>
-he sent his servant to say <br>
-to those who had been **invited**,
-
-‘Come, for everything is now **ready**.’
-
-[Luke 14:16-17 (ESV)](# "ref")
+>>>
++ On first read, wonder **why** was master so **angry**?
+  + guests' **excuses** seem reasonable
+  + can't just **drop** everything for your party
++ But dive **deeper** into this passage and
+  + parallel parable in Mt22:1-14
++ to understand the **heart** of our
+  + Heavenly Father of **abundant** blessings
 
 ---
+A man once gave <br>
+a great **banquet** and invited **many**.
+
+[Luke 14:16 (ESV)](# "ref")
+
 The kingdom of heaven may be compared to <br>
 a **king** who gave a **wedding feast** for his son
 
-[4](# "ref")
-... "See, I have prepared my **dinner**,<br>
+[Matthew 22:2 (ESV)](# "ref")
+
+>>>
++ plenty of **room**: huge celebration
+  + king would've been very **wealthy**
++ rare we have big **celebrations**:
+  + wedding, baby shower, etc.
++ e.g., our wedding banquet had **26 tables**
+  + friend's had **40**
++ agonised over **guest list**
+  + esp. **out-of-town** friends+relatives
+  + regret not spending **time** w/them
++ but: ultimately, focus is **not** on guests
+  + who "makes the **cut**" to be on the list
++ focus is on the **reason** for our joy
+  + thankful to **God** for Providence
++ and we want to **share** that joy with others
+
+---
+And at the **time** for the banquet <br>
+he sent his servant to say <br>
+to those who had been **invited**,<br>
+"Come, for everything is now **ready**."
+
+[Luke 14:17 (ESV)](# "ref")
+
+"See, I have prepared my **dinner**,<br>
 my oxen and my fat calves <br>
 have been **slaughtered**,
 
-and everything is **ready**."
+[Matthew 22:4 (ESV)](# "ref")
 
-[Matthew 22:2,4 (ESV)](# "ref")
+>>>
++ planned well in advance: **save-the-date**
+  + implied that guests already RSVPd
++ immediate **timeline**, prob that evening
++ oxen killed: can't **cancel**
++ the **invited**: Jews, the churched
+  + those who have heard Christ's **call**
+  + and even said "yes" to God! (**RSVP**)
 
 ---
 <!-- .slide: data-background="white" -->
 # Q1
 
 >>>
-cf Mt22:1-14
-
-16-17 (Mt22:1-4) setup/intro: desire of host/master/king: celebrate, share celebration with others. Focus is not on the merit of the guests but on the object of celebration, e.g., wedding of son. 
-+ context: planned well in advance, implied that guests already RSVPd
-  + very big: v22 still have space. So host very wealthy, e.g., king
-  + all ready (v17, Mt22:4): bull killed, can't cancel, immediate timeline (that evening)
-+ rare we have big celebrations, but wedding, baby shower, etc.
-+ the invited: Jews, the churched, those who have heard Christ's call
-  + and may even have said "yes" to God!
++ (prompt for pause)
 
 ---
 ## outline 2
@@ -168,7 +194,8 @@ and I go to examine them. <br>
 Please have me excused."
 
 [20](# "ref")
-"I have **married** a wife, and therefore I **cannot** come."
+"I have **married** a wife, <br>
+and therefore I **cannot** come."
 
 [Luke 14:18-20 (ESV)](# "ref")
 
@@ -222,10 +249,6 @@ But you were **unwilling**!
 
 [Isaiah 30:15 (ESV)](# "ref")
 
----
-<!-- .slide: data-background="white" -->
-# Q2
-
 >>>
 18-20 (Mt22:5-6) excuses/response of invited:
 + 18 bought field: buying property, having possessions
@@ -239,6 +262,13 @@ But you were **unwilling**!
   + successful, accomplished, good at what we do: in property, biz, relationships
 + what we've built for ourselves becomes important to us
   + God's continual invitation/reminder interrupts our daily life, becomes annoying
+
+---
+<!-- .slide: data-background="white" -->
+# Q2
+
+>>>
++ (prompt for pause)
 
 ---
 ## outline 3
@@ -296,8 +326,9 @@ to look at the **guests**, he saw there <br>
 a man who had no **wedding garment**. 
 
 [12](# "ref")
-And he said to him, "Friend, how did you <br>
-**get in** here without a **wedding garment**?"<br>
+And he said to him, <br>
+"Friend, how did you **get in** here <br>
+without a **wedding garment**?"<br>
 And he was **speechless**. 
 
 [Matthew 22:11-4 (ESV) (p.2/2)](# "ref")
@@ -332,6 +363,9 @@ Mt22:11-14: wedding clothes
 ---
 <!-- .slide: data-background="white" -->
 # Q3
+
+>>>
++ (prompt for pause)
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> -->
