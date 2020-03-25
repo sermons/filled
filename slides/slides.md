@@ -6,6 +6,73 @@
 <!-- .slide: data-background="white" -->
 # Q0
 
+******
+[15](# "ref")
+When one of those who reclined at table <br>
+with him heard these things, he said to him,
+
+“Blessed is everyone who will <br>
+eat bread in the kingdom of God!”
+
+******
+
+[16](# "ref")
+But he said to him,<br>
+“A man once gave a great banquet and invited many.
+
+[17](# "ref")
+And at the time for the banquet he sent his servant<br>
+to say to those who had been invited,<br>
+‘Come, for everything is now ready.’
+
+[18](# "ref")
+But they all alike began to make excuses.
+
+******
+
+The first said to him,<br>
+‘I have bought a field, and I must go out and see it.<br>
+Please have me excused.’
+
+[19](# "ref")
+And another said, ‘I have bought five yoke of oxen,<br>
+and I go to examine them. Please have me excused.’
+
+[20](# "ref")
+And another said, ‘I have married a wife,<br>
+and therefore I cannot come.’
+
+******
+
+[21](# "ref")
+So the servant came<br>
+and reported these things to his master.
+
+Then the master of the house became angry<br>
+and said to his servant,<br>
+‘Go out quickly to the streets and lanes of the city,<br>
+and bring in the poor and crippled and blind and lame.’
+
+******
+
+[22](# "ref")
+And the servant said,<br>
+‘Sir, what you commanded has been done,<br>
+and still there is room.’
+
+[23](# "ref")
+And the master said to the servant,<br>
+‘Go out to the highways and hedges<br>
+and compel people to come in,<br>
+that my house may be filled.
+
+******
+
+[24](# "ref")
+For I tell you, none of those men<br>
+who were invited shall taste my banquet.’”
+
+
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="empty" -->
 
