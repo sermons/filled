@@ -17,12 +17,13 @@ eat bread in the kingdom of God!”
 ******
 
 [16](# "ref")
-But he said to him,<br>
-“A man once gave a great banquet and invited many.
+But he said to him, “A man once gave <br>
+a great banquet and invited many.
 
 [17](# "ref")
-And at the time for the banquet he sent his servant<br>
-to say to those who had been invited,<br>
+And at the time for the banquet <br>
+he sent his servant to say <br>
+to those who had been invited,<br>
 ‘Come, for everything is now ready.’
 
 [18](# "ref")
@@ -30,13 +31,14 @@ But they all alike began to make excuses.
 
 ******
 
-The first said to him,<br>
-‘I have bought a field, and I must go out and see it.<br>
+The first said to him, ‘I have bought a field, <br>
+and I must go out and see it.<br>
 Please have me excused.’
 
 [19](# "ref")
-And another said, ‘I have bought five yoke of oxen,<br>
-and I go to examine them. Please have me excused.’
+And another said, ‘I have bought <br>
+five yoke of oxen, and I go to examine them. <br>
+Please have me excused.’
 
 [20](# "ref")
 And another said, ‘I have married a wife,<br>
@@ -49,9 +51,13 @@ So the servant came<br>
 and reported these things to his master.
 
 Then the master of the house became angry<br>
-and said to his servant,<br>
-‘Go out quickly to the streets and lanes of the city,<br>
-and bring in the poor and crippled and blind and lame.’
+and said to his servant,
+
+‘Go out quickly <br>
+to the streets and lanes of the city,
+
+and bring in the poor and crippled <br>
+and blind and lame.’
 
 ******
 
@@ -62,7 +68,8 @@ and still there is room.’
 
 [23](# "ref")
 And the master said to the servant,<br>
-‘Go out to the highways and hedges<br>
+‘Go out to the highways and hedges
+
 and compel people to come in,<br>
 that my house may be filled.
 
