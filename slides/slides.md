@@ -40,7 +40,8 @@ a great banquet and invited many.
 [17](# "ref")
 And at the time for the banquet <br>
 he sent his servant to say <br>
-to those who had been invited,<br>
+to those who had been invited,
+
 ‘Come, for everything is now ready.’
 
 [Luke 14:15-24 (ESV) (p.2/6)](# "ref")
@@ -114,6 +115,31 @@ who were invited shall taste my banquet.’”
 1. Filling [(v21-24)](# "ref")
 
 ---
+... gave a great **banquet** and invited **many**.
+
+[17](# "ref")
+And at the **time** for the banquet <br>
+he sent his servant to say <br>
+to those who had been **invited**,
+
+‘Come, for everything is now **ready**.’
+
+[Luke 14:16-17 (ESV)](# "ref")
+
+---
+The kingdom of heaven may be compared to <br>
+a **king** who gave a **wedding feast** for his son
+
+[4](# "ref")
+... "See, I have prepared my **dinner**,<br>
+my oxen and my fat calves <br>
+have been **slaughtered**,
+
+and everything is **ready**."
+
+[Matthew 22:2,4 (ESV)](# "ref")
+
+---
 <!-- .slide: data-background="white" -->
 # Q1
 
@@ -130,6 +156,71 @@ cf Mt22:1-14
 
 ---
 ## outline 2
+
+---
+"I have bought a **field**, <br>
+and I must go out and see it.<br>
+Please have me **excused**."
+
+[19](# "ref")
+"I have bought five yoke of **oxen**, <br>
+and I go to examine them. <br>
+Please have me excused."
+
+[20](# "ref")
+"I have **married** a wife, and therefore I **cannot** come."
+
+[Luke 14:18-20 (ESV)](# "ref")
+
+---
+They paid **no attention** and went off, <br>
+one to his **farm**, another to his **business**, 
+
+[6](# "ref")
+while the rest **seized** his servants, <br>
+treated them **shamefully**, and **killed** them.
+
+[Matthew 22:5-6 (ESV)](# "ref")
+
+---
+I was ready to be **sought**<br>
+by those who **did not ask** for me;<br>
+I was ready to be **found**<br>
+by those who **did not seek** me.
+
+I said, “**Here I am**, here I am,”<br>
+to a nation that was not called by my **name**.
+
+[2](# "ref")
+I **spread out** my hands all the day<br>
+to a **rebellious** people
+
+[Isaiah 65:1-2 (ESV)](# "ref")
+
+---
+O Jerusalem, Jerusalem, <br>
+the city that **kills** the prophets <br>
+and **stones** those who are sent to it!
+
+How often would I have<br>
+gathered your **children** together<br>
+as a **hen** gathers her brood under her wings,
+
+and you were **not willing**!
+
+[Luke 13:34 (ESV)](# "ref")
+
+---
+For thus said the Lord God,<br>
+the Holy One of Israel,
+
+“In **returning** and **rest** you shall be saved;<br>
+in **quietness** and in **trust**<br>
+shall be your strength.”
+
+But you were **unwilling**!
+
+[Isaiah 30:15 (ESV)](# "ref")
 
 ---
 <!-- .slide: data-background="white" -->
@@ -153,8 +244,32 @@ cf Mt22:1-14
 ## outline 3
 
 ---
-<!-- .slide: data-background="white" -->
-# Q3
+Then the master of the house became **angry**<br>
+and said to his servant,
+
+‘Go out **quickly** <br>
+to the **streets** and **lanes** of the city,
+
+and bring in the **poor** and **crippled** <br>
+and **blind** and **lame**.’
+
+[Luke 14:21 (ESV)](# "ref")
+
+---
+And the master said to the servant,<br>
+‘Go out to the **highways** and **hedges**
+
+and **compel** people to come in,<br>
+that my house may be **filled**.
+
+[Luke 14:23 (ESV)](# "ref")
+
+
+---
+The wedding feast is ready, <br>
+but those **invited** were not **worthy**.
+
+[Matthew 22:8 (ESV)](# "ref")
 
 >>>
 21-24 (Mt22:7-10) action of master:
@@ -174,6 +289,34 @@ cf Mt22:1-14
 + it takes action: coming to the feast
   + with intent: purpose is to share in Master's joy, not just get free meal
 
+---
+[11](# "ref")
+But when the king came in <br>
+to look at the **guests**, he saw there <br>
+a man who had no **wedding garment**. 
+
+[12](# "ref")
+And he said to him, "Friend, how did you <br>
+**get in** here without a **wedding garment**?"<br>
+And he was **speechless**. 
+
+[Matthew 22:11-4 (ESV) (p.2/2)](# "ref")
+
+---
+[13](# "ref")
+Then the king said to the attendants,
+
+"**Bind** him hand and foot and <br>
+**cast** him into the outer darkness.<br>
+In that place there will be<br>
+**weeping** and gnashing of teeth."
+
+[14](# "ref")
+For many are **called**, but few are **chosen**.
+
+[Matthew 22:11-4 (ESV) (p.1/2)](# "ref")
+
+>>>
 Mt22:11-14: wedding clothes
 + clothes in Scripture: represent good deeds (e.g., Rev7:9)
   + only those with clean clothes (have done holiness) may enter
@@ -187,14 +330,13 @@ Mt22:11-14: wedding clothes
 + many are called (invited), few are chosen (selected by preference)
 
 ---
+<!-- .slide: data-background="white" -->
+# Q3
+
+---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> -->
 (closing reading)
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="empty" -->
-
->>>
-+ Is65:1-2 "here I am", spread out hands all day to rebellious people
-+ Lk13:34 long to gather as hen, but you would not have it
-+ Is30:15 repentance+rest, but you were not willing
 
