@@ -6,6 +6,21 @@
 <!-- .slide: data-background="white" -->
 # Q0
 
+---
+(review Lk14)
+
+>>>
+feast at home of Pharisee leader:
++ (man w/edema) healing more important than rules
+  + (beware hardening against Jesus)
++ (to guests): don't desire to be first: for even son of man did not come to be served but to serve
+  + (beware exalting oneself)
++ (to host): invite those who can't repay you, that you may be repaid at the resurrection of the righteous
++ 15 how wonderful to feast in the kingdom of God!
+  + impl.: how wonderful for **us**
+  + assume will enter kingdom of God
++ today's parable is Jesus' reply: don't be so sure you're going to be at that feast!
+
 ******
 [15](# "ref")
 When one of those who reclined at table <br>
@@ -99,21 +114,11 @@ who were invited shall taste my banquet.’”
 1. Filling [(v21-24)](# "ref")
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="empty" -->
+<!-- .slide: data-background="white" -->
+# Q1
 
 >>>
 cf Mt22:1-14
-
-review: feast at home of Pharisee leader:
-+ (man w/edema) healing more important than rules
-  + (beware hardening against Jesus)
-+ (to guests): don't desire to be first: for even son of man did not come to be served but to serve
-  + (beware exalting oneself)
-+ (to host): invite those who can't repay you, that you may be repaid at the resurrection of the righteous
-+ 15 how wonderful to feast in the kingdom of God!
-  + impl.: how wonderful for **us**
-  + assume will enter kingdom of God
-+ today's parable is Jesus' reply: don't be so sure you're going to be at that feast!
 
 16-17 (Mt22:1-4) setup/intro: desire of host/master/king: celebrate, share celebration with others. Focus is not on the merit of the guests but on the object of celebration, e.g., wedding of son. 
 + context: planned well in advance, implied that guests already RSVPd
@@ -123,6 +128,14 @@ review: feast at home of Pharisee leader:
 + the invited: Jews, the churched, those who have heard Christ's call
   + and may even have said "yes" to God!
 
+---
+## outline 2
+
+---
+<!-- .slide: data-background="white" -->
+# Q2
+
+>>>
 18-20 (Mt22:5-6) excuses/response of invited:
 + 18 bought field: buying property, having possessions
 + 19 bought oxen: invest in business, building career
@@ -136,6 +149,14 @@ review: feast at home of Pharisee leader:
 + what we've built for ourselves becomes important to us
   + God's continual invitation/reminder interrupts our daily life, becomes annoying
 
+---
+## outline 3
+
+---
+<!-- .slide: data-background="white" -->
+# Q3
+
+>>>
 21-24 (Mt22:7-10) action of master:
 + 21 anger: Mt22:7 even more severe
 + 21 with speed, at once: urgency
@@ -165,6 +186,14 @@ Mt22:11-14: wedding clothes
   + but we must accept the gift
 + many are called (invited), few are chosen (selected by preference)
 
+---
+<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> -->
+(closing reading)
+
+---
+<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="empty" -->
+
+>>>
 + Is65:1-2 "here I am", spread out hands all day to rebellious people
 + Lk13:34 long to gather as hen, but you would not have it
 + Is30:15 repentance+rest, but you were not willing
