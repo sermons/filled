@@ -14,6 +14,8 @@ with him heard these things, he said to him,
 “Blessed is everyone who will <br>
 eat bread in the kingdom of God!”
 
+[Luke 14:15-24 (ESV) (p.1/6)](# "ref")
+
 ******
 
 [16](# "ref")
@@ -26,10 +28,12 @@ he sent his servant to say <br>
 to those who had been invited,<br>
 ‘Come, for everything is now ready.’
 
-[18](# "ref")
-But they all alike began to make excuses.
+[Luke 14:15-24 (ESV) (p.2/6)](# "ref")
 
 ******
+
+[18](# "ref")
+But they all alike began to make excuses.
 
 The first said to him, ‘I have bought a field, <br>
 and I must go out and see it.<br>
@@ -40,11 +44,13 @@ And another said, ‘I have bought <br>
 five yoke of oxen, and I go to examine them. <br>
 Please have me excused.’
 
+[Luke 14:15-24 (ESV) (p.3/6)](# "ref")
+
+******
+
 [20](# "ref")
 And another said, ‘I have married a wife,<br>
 and therefore I cannot come.’
-
-******
 
 [21](# "ref")
 So the servant came<br>
@@ -53,18 +59,24 @@ and reported these things to his master.
 Then the master of the house became angry<br>
 and said to his servant,
 
+[Luke 14:15-24 (ESV) (p.4/6)](# "ref")
+
+******
+
 ‘Go out quickly <br>
 to the streets and lanes of the city,
 
 and bring in the poor and crippled <br>
 and blind and lame.’
 
-******
-
 [22](# "ref")
 And the servant said,<br>
 ‘Sir, what you commanded has been done,<br>
 and still there is room.’
+
+[Luke 14:15-24 (ESV) (p.5/6)](# "ref")
+
+******
 
 [23](# "ref")
 And the master said to the servant,<br>
@@ -73,15 +85,15 @@ And the master said to the servant,<br>
 and compel people to come in,<br>
 that my house may be filled.
 
-******
-
 [24](# "ref")
 For I tell you, none of those men<br>
 who were invited shall taste my banquet.’”
 
+[Luke 14:15-24 (ESV) (p.6/6)](# "ref")
+
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" class="outline" -->
-## That My House May Be Filled
+## Parable of the Banquet [(Luke 14)](# "ref")
 1. Invitation [(v16-17)](# "ref")
 1. Excuses [(v18-20)](# "ref")
 1. Filling [(v21-24)](# "ref")
