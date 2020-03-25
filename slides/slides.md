@@ -72,6 +72,12 @@ that my house may be filled.
 For I tell you, none of those men<br>
 who were invited shall taste my banquet.’”
 
+---
+<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" class="outline" -->
+## That My House May Be Filled
+1. Invitation [(v16-17)](# "ref")
+1. Excuses [(v18-20)](# "ref")
+1. Filling [(v21-24)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="empty" -->
