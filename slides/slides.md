@@ -163,9 +163,8 @@ to those who had been **invited**,<br>
 
 [Luke 14:17 (ESV)](# "ref")
 
-"See, I have prepared my **dinner**,<br>
-my oxen and my fat calves <br>
-have been **slaughtered**,
+"My **oxen** and my fat calves <br>
+have been **slaughtered**"
 
 [Matthew 22:4 (ESV)](# "ref")
 
@@ -215,10 +214,14 @@ treated them **shamefully**, and **killed** them.
 
 ---
 I was ready to be **sought**<br>
-by those who **did not ask** for me;<br>
+by those who **did not ask** for me;
+
 I was ready to be **found**<br>
 by those who **did not seek** me.
 
+[Isaiah 65:1-2 (ESV) (p.1/2)](# "ref")
+
+---
 I said, “**Here I am**, here I am,”<br>
 to a nation that was not called by my **name**.
 
@@ -226,7 +229,7 @@ to a nation that was not called by my **name**.
 I **spread out** my hands all the day<br>
 to a **rebellious** people
 
-[Isaiah 65:1-2 (ESV)](# "ref")
+[Isaiah 65:1-2 (ESV) (p.2/2)](# "ref")
 
 ---
 O Jerusalem, Jerusalem, <br>
@@ -340,7 +343,7 @@ And he said to him, <br>
 without a **wedding garment**?"<br>
 And he was **speechless**. 
 
-[Matthew 22:11-4 (ESV) (p.2/2)](# "ref")
+[Matthew 22:11-4 (ESV) (p.1/2)](# "ref")
 
 ---
 [13](# "ref")
@@ -354,7 +357,7 @@ In that place there will be<br>
 [14](# "ref")
 For many are **called**, but few are **chosen**.
 
-[Matthew 22:11-4 (ESV) (p.1/2)](# "ref")
+[Matthew 22:11-4 (ESV) (p.2/2)](# "ref")
 
 >>>
 + clothes in Scripture: represent good deeds (e.g., Rev7:9)
