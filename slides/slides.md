@@ -110,9 +110,9 @@ who were invited shall taste my banquet.’”
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" class="outline" -->
 ## Parable of the Banquet [(Lk14)](# "ref")
-1. Invitation [(v16-17)](# "ref")
-1. Excuses [(v18-20)](# "ref")
-1. Filling [(v21-24)](# "ref")
+1. Feast [(v16-17)](# "ref")
+1. Fall [(v18-20)](# "ref")
+1. Fulfillment [(v21-24)](# "ref")
 
 >>>
 + On first read, wonder **why** was master so **angry**?
@@ -122,6 +122,10 @@ who were invited shall taste my banquet.’”
   + parallel parable in Mt22:1-14
 + to understand the **heart** of our
   + Heavenly Father of **abundant** blessings
+
+1. invitation
+2. rejection, priorities
+3. extend invitation, redemption
 
 ---
 A man once gave <br>
@@ -202,6 +206,15 @@ and therefore I **cannot** come."
 
 [Luke 14:18-20 (ESV)](# "ref")
 
+>>>
++ 18 bought field: buying property, having possessions
++ 19 bought oxen: invest in business, building career
++ 20 got married: relationships / family
++ COVID19: all these on **hold**
+  + **life** more important
++ but do we only want life to go back to **normal**
+  + return to daily life? 
+
 ---
 They paid **no attention** and went off, <br>
 one to his **farm**, another to his **business**, 
@@ -257,10 +270,6 @@ But you were **unwilling**!
 [Isaiah 30:15 (ESV)](# "ref")
 
 >>>
-18-20 (Mt22:5-6) excuses/response of invited:
-+ 18 bought field: buying property, having possessions
-+ 19 bought oxen: invest in business, building career
-+ 20 got married: relationships / family
 + Mt22:2 unwilling
 + Mt22:5 didn't care, back to own business
 + Mt22:6 beat, humiliated, killed servants: why must you keep reminding me?
@@ -269,6 +278,8 @@ But you were **unwilling**!
   + successful, accomplished, good at what we do: in property, biz, relationships
 + what we've built for ourselves becomes important to us
   + God's continual invitation/reminder interrupts our daily life, becomes annoying
++ so proud of being invited
+  + but do we actually want to go? 
 
 ---
 <!-- .slide: data-background="white" -->
@@ -316,6 +327,18 @@ that my house may be **filled**.
   + just **any** random person
 + **compel** them: might not be needy or as eager for a free meal
 + host's objective is to fill his house: celebrate, share his joy with those who would share his joy
+
+---
+For I tell you, **none** of those men<br>
+who were **invited** shall taste my banquet.
+
+[Luke 14:24 (ESV)](# "ref")
+
+>>>
++ redemption is not only about
+  + God's **grace** toward the undeserving
++ but also God's **judgment** on
+  + those who **reject** his gift
 
 ---
 The wedding feast is ready, <br>
