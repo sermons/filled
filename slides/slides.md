@@ -213,6 +213,30 @@ have been **slaughtered**"
   + and even said "yes" to God! (**RSVP**)
 
 ---
+And I saw the **holy city**, new Jerusalem,<br>
+coming down out of **heaven** from God,<br>
+prepared as a **bride** adorned for her husband.
+
+[3](# "ref")
+And I heard a loud voice from the throne<br>
+saying, “Behold, the **dwelling place** of God<br>
+is with man. He will dwell with them,<br>
+and they will be **his people**, and God<br>
+himself will be with them as **their God**.
+
+[Revelation 21:2-4 (ESV) (p.2/2)](# "ref")
+
+---
+[4](# "ref")
+He will wipe away every **tear** from their eyes,<br>
+and **death** shall be no more,<br>
+neither shall there be **mourning**,<br>
+nor **crying**, nor **pain** anymore,<br>
+for the **former** things have passed away.”
+
+[Revelation 21:2-4 (ESV) (p.2/2)](# "ref")
+
+---
 <!-- .slide: data-background="white" -->
 # What **joy** does the King wish to **share** with us?
 
