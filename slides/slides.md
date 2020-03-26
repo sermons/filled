@@ -389,3 +389,5 @@ For many are **called**, but few are **chosen**.
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="empty" -->
 
+>>>
++ 13:25 "Lord, open to us" / "I don't know you"
