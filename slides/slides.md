@@ -128,6 +128,9 @@ follows outline of **salvation**: mini-gospel
 2. fall/sin: priorities
 3. extend invitation, fill the Father's House
 
++ First: dwell on heart of Father
+  + not on our own sorrows/needs
+
 ---
 A man once gave <br>
 a great **banquet** and invited **many**.
@@ -184,13 +187,23 @@ have been **slaughtered**"
 
 ---
 <!-- .slide: data-background="white" -->
-# Q1
+# What **joy** does the King wish to **share** with us?
 
 >>>
++ the **reason** for the invitation in parable
+  + was son's **wedding**
++ what **celebration** has God invited us to
+  + for what **reason** is He celebrating?
++ God's **intent** is not just for **our** comfort
+  + world doesn't **revolve** around us
 + (prompt for pause)
 
 ---
 ## outline 2
+
+>>>
++ **excuses** given by invited guests
++ indicate they've continued w/regular **routine**
 
 ---
 "I have bought a **field**, <br>
@@ -208,9 +221,11 @@ and therefore I **cannot** come."
 [Luke 14:18-20 (ESV)](# "ref")
 
 >>>
-+ 18 bought field: buying property, having possessions
-+ 19 bought oxen: invest in business, building career
-+ 20 got married: relationships / family
++ field: buying property, having **possessions**
++ oxen: invest in business, building **career**
++ married: **relationships** / family
++ all good, **blessings** from God
+  + things that normally **fill** our lives
 + COVID19: all these on **hold**
   + **life** more important
 + but do we only want life to go back to **normal**
@@ -225,6 +240,11 @@ while the rest **seized** his servants, <br>
 treated them **shamefully**, and **killed** them.
 
 [Matthew 22:5-6 (ESV)](# "ref")
+
+>>>
++ beat, humiliated, killed servants:
+  + why must you keep **reminding** me?
++ 
 
 ---
 I was ready to be **sought**<br>
@@ -271,9 +291,6 @@ But you were **unwilling**!
 [Isaiah 30:15 (ESV)](# "ref")
 
 >>>
-+ Mt22:2 unwilling
-+ Mt22:5 didn't care, back to own business
-+ Mt22:6 beat, humiliated, killed servants: why must you keep reminding me?
 + "cancel culture": flexibility, spontaneity, but also lack of commitment, demonstrates where our priorities are
 + context: pharisees
   + successful, accomplished, good at what we do: in property, biz, relationships
@@ -284,9 +301,16 @@ But you were **unwilling**!
 
 ---
 <!-- .slide: data-background="white" -->
-# Q2
+# Am I **looking forward** to Christ's **return**?
 
 >>>
++ complete **upheaval** of way of life
++ prior to return, increased
+  + natural disasters: famine, disease
+  + human disasters: war, betrayal
++ our **hope** is not that God 
+  + restores our **"normal"** daily habits
+  + but a **joy** far beyond anything in this life
 + (pause for discussion)
 
 ---
@@ -397,9 +421,16 @@ For many are **called**, but few are **chosen**.
 
 ---
 <!-- .slide: data-background="white" -->
-# Q3
+# Who is **worthy** of entering the King's **feast**?
 
 >>>
++ we are **undeserving** of God's grace
+  + even having been **invited**
++ but not completely **passive**:
++ we must **respond** to the invitation
+  + be **prepared** for the day of His return
++ come to God not only for His **blessings**
+  + but to share in His **joy**
 + (pause for discussion)
 
 ---
