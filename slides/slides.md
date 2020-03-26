@@ -2,24 +2,51 @@
 # That My House May Be Filled
 ## Luke 14:15-24
 
+>>>
++ world in midst of **crisis**
++ new coronavirus is **deadly**,
+  + **contagious**, and already worldwide
++ upended our **daily lives**
+  + shocked the global **economy**
+  + impacted **jobs** + schooling
++ even **family** life:
+  + unable to see **relatives**
+  + many **elderly** isolated and scared
+  + suddenly having to **homeschool** kids
++ is it going to get **better**?
+  + is the world **ending**?
+  + when will we get back to **normal**?
+
 ---
 <!-- .slide: data-background="white" -->
-# Q0
+# Am I ready for God to **upend** my life?
 
 ---
-(review Lk14)
+## Luke: the Kingdom of God
++ Jesus uses many **parables** to describe
+  + What the kingdom of God is **like**, and
+  + Who will **enter** it
++ [Luke 14a](# "ref"): **feast** at home of prominent Pharisee 
+  + [(v1-6)](# "ref") Man ill with *edema*:
+    + **Healing** more important than rules
+  + [(v7-11)](# "ref") *Guests* taking seats of honour:
+    + **Humble** yourself, that God may exalt you
+  + [(v12-14)](# "ref") *Host* of banquet:
+    + Be **hospitable** to those who cannot repay you
++ Today: [v15-24](# "ref") Who is **worthy**
+  + to enter the **feast** in the kingdom of God?
 
 >>>
-feast at home of Pharisee leader:
-+ (man w/edema) healing more important than rules
-  + (beware hardening against Jesus)
-+ (to guests): don't desire to be first: for even son of man did not come to be served but to serve
++ Edema: (beware hardening against Jesus)
++ Guests: even Son of Man did not come to be served but to serve
   + (beware exalting oneself)
-+ (to host): invite those who can't repay you, that you may be repaid at the resurrection of the righteous
-+ 15 how wonderful to feast in the kingdom of God!
++ Host: invite those who can't repay you
+  + that you may be repaid at the resurrection of the righteous
++ Guest: how wonderful to feast in the kingdom of God!
   + impl.: how wonderful for **us**
   + assume will enter kingdom of God
-+ today's parable is Jesus' reply: don't be so sure you're going to be at that feast!
++ today's parable is Jesus' reply:
+  + don't be so sure you're going to be at that feast!
 
 ******
 [15](# "ref")
