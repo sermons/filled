@@ -110,9 +110,9 @@ who were invited shall taste my banquet.’”
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" class="outline" -->
 ## Parable of the Banquet [(Lk14)](# "ref")
-1. Feast [(v16-17)](# "ref")
-1. Fall [(v18-20)](# "ref")
-1. Fulfillment [(v21-24)](# "ref")
+1. Rejoicing [(v16-17)](# "ref")
+1. Rejection [(v18-20)](# "ref")
+1. Redemption [(v21-24)](# "ref")
 
 >>>
 + On first read, wonder **why** was master so **angry**?
@@ -123,9 +123,10 @@ who were invited shall taste my banquet.’”
 + to understand the **heart** of our
   + Heavenly Father of **abundant** blessings
 
-1. invitation
-2. rejection, priorities
-3. extend invitation, redemption
+follows outline of **salvation**: mini-gospel
+1. invitation to share in celebration
+2. fall/sin: priorities
+3. extend invitation, fill the Father's House
 
 ---
 A man once gave <br>
