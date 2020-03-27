@@ -11,7 +11,7 @@
   + impacted **jobs** + schooling
 + even **family** life:
   + unable to see **relatives**
-  + many **elderly** isolated and scared
+  + many **elderly** isolated and stressed
   + suddenly having to **homeschool** kids
 + is it going to get **better**?
   + is the world **ending**?
@@ -26,20 +26,25 @@
 + Jesus uses many **parables** to describe
   + What the kingdom of God is **like**, and
   + Who will **enter** it
++ [(13:22-30)](# "ref") Parable of the **narrow gate**:
+  + "Lord, **open** to us"
+  + "I do not **know** where you come from.<br>**Depart** from me!"
+
+>>>
 
 ---
 ## [Luke 14](# "ref"): Teachings at a Feast
-At home of prominent **Pharisee**:
 + [(v1-6)](# "ref") Man ill with *edema*:
   + **Healing** more important than rules
 + [(v7-11)](# "ref") *Guests* taking seats of honour:
-  + **Humble** yourself, that God may exalt you
+  + **Humble** yourself, that God may exalt
 + [(v12-14)](# "ref") *Host* of banquet:
-  + Be **hospitable** to those who cannot repay you
-+ Today: [v15-24](# "ref") Who is **worthy**
-  + to enter the **feast** in the kingdom of God?
+  + **Hospitality** to those who cannot repay
++ Today: [v15-24](# "ref") Who is **worthy** to enter
+  + the **feast** in the kingdom of God?
 
 >>>
++ At home of prominent **Pharisee**
 + Edema: (beware hardening against Jesus)
 + Guests: even Son of Man did not come to be served but to serve
   + (beware exalting oneself)
@@ -530,10 +535,7 @@ For many are **called**, but few are **chosen**.
 
 >>>
 + next time: last part of ch14
-  + what it takes to be Christ's **disciple**
++ what it takes to be Christ's **disciple**
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="empty" -->
-
->>>
-+ 13:25 "Lord, open to us" / "I don't know you"
