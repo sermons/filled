@@ -5,27 +5,34 @@
 >>>
 + world in midst of **crisis**
 + new coronavirus is **deadly**,
-  + **contagious**, and already worldwide
-+ upended our **daily lives**
-  + shocked the global **economy**
-  + impacted **jobs** + schooling
-+ even **family** life:
-  + unable to see **relatives**
-  + many **elderly** isolated and stressed
-  + suddenly having to **homeschool** kids
-+ is it going to get **better**?
-  + is the world **ending**?
+  + **contagious**, and worldwide
++ changed our **daily habits**
+  + impacted **jobs**, schooling,
++ and even **family** life:
+  + unable to visit **relatives**
+  + many **elderly** isolated + stressed
+  + parents suddenly have to **homeschool** kids
++ many ask: is it going to get **better**?
   + when will we get back to **normal**?
 
 ---
 <!-- .slide: data-background="white" -->
-# Am I ready for God to **upend** my life?
+# How do I respond when God **interrupts** my life? 
 
 >>>
++ do I cling to the **familiar** for security? 
++ now more than ever, we're looking for **hope**
+  + but **what** do we hope for?
++ crises are **turning points**:
+  + reveal our **hearts**
+  + opp. to reexamine our **priorities**
+  + and find renewed **hope**!
 + as we look to the **Scriptures**,
 + let us **behold** the **Lamb** of God
   + who takes away the **sin** of the world
 + [brief opening **prayer**]
+  + [then **review**]
+  + [then today's **passage**]
 
 ---
 ## [Luke](# "ref"): the **Kingdom** of God
@@ -58,13 +65,17 @@
   + the **feast** in the kingdom of God?
 
 >>>
-+ At home of prominent **Pharisee**
-+ **Edema**: (beware **hardening** against Jesus)
-+ **Guests**: even Son of Man did not come to be **served** but to serve
-  + (beware **exalting** oneself)
-+ **Host**: invite those who **can't** repay you
-  + that you may be repaid at the **resurrection** of the righteous
-+ **Guest**: how wonderful to **feast** in the kingdom of God!
++ Setting: banquet at home of prominent **Pharisee**
++ heals man of **edema**: 
+  + beware **hardening** against Jesus
++ speaks to the other **guests**: 
+  + beware **exalting** oneself
++ speaks to the **host**:
+  + invite those who **can't** repay you
+  + that you may be **repaid**
+  + at the **resurrection** of the righteous
++ at this, a fellow **guest** remarks:
+  + how wonderful to **feast** in the kingdom of God!
   + impl.: how wonderful for **us**
   + **assume** will enter kingdom of God
 + today's parable is Jesus' **reply**:
