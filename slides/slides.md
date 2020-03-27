@@ -72,7 +72,7 @@
   + beware **exalting** oneself
 + speaks to the **host**:
   + invite those who **can't** repay you
-  + that you may be **repaid**
+  + so that you may be **repaid**
   + at the **resurrection** of the righteous
 + at this, a fellow **guest** remarks:
   + how wonderful to **feast** in the kingdom of God!
@@ -178,15 +178,15 @@ who were invited shall taste my banquet.’”
 + On first read, wonder **why** was master so **angry**?
   + guests' **excuses** seem reasonable
   + can't just **drop** everything for your party
-+ But dive **deeper** into this passage and
-  + parallel parable in Mt22:1-14
-+ to understand the **heart** of our
++ But as we dive **deeper** into this passage 
+  + and **parallel** parable in Mt22:1-14
++ we understand bit more of **heart** of our
   + Heavenly Father of **abundant** blessings
 + 3 **parts** of this parable
   + follows outline of **salvation**: mini-gospel
 
 1. master's **invitation** to share in celebration
-  + focus is not on **guest list**
+  + focus not on **guests**
   + but on master's **joy** which he wishes to share
 2. guests' **response** 
   + fall/sin
