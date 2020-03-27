@@ -20,10 +20,10 @@
 >>>
 + do I cling to the **familiar** for security? 
 + now more than ever, we're looking for **hope**
-  + but **what** do we hope for?
+  + but **what** is it we're hoping for?
 + every crisis is a **turning point**:
   + reveals our **hearts**
-  + opp. to reexamine our **priorities**
++ opportunity to reexamine our **priorities**
   + and find renewed **hope**!
 + let's look to the **Scriptures**,
 + together **behold** the **Lamb** of God
@@ -42,11 +42,10 @@
   + "I do not *know* where you come from.<br>*Depart* from me!"
 
 >>>
-+ a continual **theme** in Luke is
-  + the **kingdom** of God
-+ Jesus **tells** us what it's like by
-  + how He **heals** + performs miracles,
-  + the **parables** He teaches, and
++ In Luke, Jesus **tells** us
+  + what the **kingdom** of God is like, by
++ how He **heals** + performs miracles,
+  + teaching in **parables**, and
   + His **actions** leading to the cross
 + Here the **mid-section** of Luke is
   + marked by many **parables**
@@ -63,13 +62,12 @@
   + the **feast** in the kingdom of God?
 
 >>>
-+ Setting: banquet at home of prominent **Pharisee**
-+ heals man of **edema**: 
++ Setting of ch14: **banquet**
+  + at home of prominent **Pharisee**
++ reminds us to:
   + beware **hardening** against Jesus
-+ speaks to the other **guests**: 
   + beware **exalting** oneself
-+ speaks to the **host**:
-  + invite those who **can't** repay you
++ show **hospitality** to those who can't repay you
   + so that you may be **repaid**
   + at the **resurrection** of the righteous
 + at this, a fellow **guest** remarks:
@@ -184,9 +182,8 @@ who were invited shall taste my banquet.’”
   + focus not on **guests**
   + but on master's **joy** which he wishes to share
 2. **response** of those invited: fall/sin, priorities
-3. **extend** invitation to all who **accept**
-  + and **share** in His joy
-  + **fill** His house
+3. **extend** invitation to all who **accept** + **share** His joy
+  + to **fill** His house
 
 + First: focus on **heart** of Father
 
@@ -202,24 +199,18 @@ a **king** who gave a **wedding feast** for his son
 [Matthew 22:2 (ESV)](# "ref")
 
 >>>
-+ plenty of **room**: huge celebration
-  + king would've been very **wealthy**
-+ isn't it **nice** that the **kingdom of heaven**
-  + is like a wonderful **celebration**!
-  + what beautiful **hope**
++ **huge** celebration (king would've been very **wealthy**)
++ nice: **kingdom of heaven** like a wonderful **celebration**
+  + what beautiful **hope**!
 ______
 + for us, we rarely have big **celebrations**:
   + wedding, baby shower, etc.
-+ e.g., our wedding banquet had **26 tables**
-  + friend's had **40**
++ e.g., our wedding banquet had **26 tables** (friend's had **40**)
 + agonised over **guest list**
   + esp. **out-of-town** friends+relatives
-  + regret not spending **time** w/them
-+ but: ultimately, focus is **not** on guests
-  + who "makes the **cut**" to be on the list
-+ focus is on the **reason** for our joy
-  + thankful to **God** for Providence
-+ and we want to **share** that joy with others
++ but main focus is **not** on guests (who "makes the **cut**")
++ focus on **reason** for our joy: thank **God** for Providence
+  + and want to **share** that joy with others
 
 ---
 And at the **time** for the banquet <br>
@@ -237,9 +228,9 @@ have been **slaughtered**"
 >>>
 + a celebration that **big** would have been
   + **planned** well in advance: **save-the-date**
-  + those invited would have already RSVPd
-+ so when **time** came,
-  + (Mt) oxen killed: can't **cancel**
+  + those invited would have already **RSVPd**
++ when **time** came, too late to **cancel**
+  + **meat**'s going to spoil
 + king is **looking forward** to
   + **sharing** his joy w/guests
 + in the same way, the **King of kings**
@@ -306,9 +297,9 @@ for the **former** things have passed away.”
 + and that's exactly our **problem**:
 + we are focused on getting **back** to
   + our **busy** lives
-+ we've forgotten to look **forward** to
-  + the future **hope**
-  + God has **reserved** for those who accept it
++ we've neglected to look **forward** to
+  + the future **hope** which God has
+  + **reserved** for those who accept it
 + [prompt for pause]
 
 ---
@@ -321,11 +312,10 @@ for the **former** things have passed away.”
 >>>
 + first, understand the **master's** joy
   + wants to **share** with others
-+ now, we turn to the **invited**:
++ now, we turn to those who were **invited**:
   + Jews, the **churched**
   + those who have heard Christ's **call**
-  + and even said "**yes**" to God!
-  + (**RSVP**: e.g., baptized)
+  + and even said "**yes**" to God!  (**RSVP**: e.g., baptized)
 + their **excuses** indicate they **prioritize**
   + their **own** endeavours over
   + the **joy** of the king
@@ -349,20 +339,16 @@ and therefore I **cannot** come."
 + field: buy property, **possessions**
   + oxen: invest in biz, build **career**
   + married: **relationships** / family
-+ all good **blessings** from God
-  + things that normally **fill** our lives
++ all good **blessings** from God, that normally **fill** our lives
 + **obligations** ("must", "cannot"):
-  + e.g., Chinese **work ethic** sees
-  + **responsibilities** as more important
-  + than **celebration**
-+ COVID19: all these on **hold**
-  + **crisis**: interruption causes
-  + reexamine our **priorities**
+  + e.g., Chinese **work ethic**
+  + **responsibility** more important than **celebration**
+______
++ COVID19: all these on **hold**: crisis
+  + interruption causes us to reexamine our **priorities**
 + clarify: God is not **pleased** w/COVID
-  + our world + bodies are **broken**
-  + because of **sin** of all mankind
-+ in the **midst** of our trials
-  + God sends **reminders** time + again
+  + our world + bodies are **broken** bc **sin** of all mankind
++ in the **midst** of our trials, God sends **reminders** time + again
 + Mt: king sends servants **multiple** times
   + invited respond even more **strongly**:
 
@@ -381,14 +367,12 @@ and **killed** them.
 >>>
 + servants represent **prophets**
   + who **spoke** Word of God
-+ when God **reminds** us to
-  + **adjust** our priorities,
++ when God **reminds** us to **adjust** our priorities,
 + we either **ignore** Him, or say:
   + "you're **interrupting** my daily life"
   + "your party isn't **that** important to me"
   + "why must you keep **pestering** me?"
-+ All along, God is **offering** us
-  + a **pathway** to peace
++ All along, God is **offering** us a **pathway** to peace
 + but we see it as **bothersome**
   + in the preceding **chapter**:
 
@@ -406,7 +390,7 @@ and you were **not willing**!
 [Luke 13:34 (ESV)](# "ref")
 
 >>>
-+ Father longs to **comfort** + protect
++ God longs to **comfort** + protect w/**motherly** love
   + keep us **close** to Him
 + it is **we** who are unwilling
   + trust in our **independence**
@@ -441,7 +425,7 @@ But you were **unwilling**!
 
 ---
 <!-- .slide: data-background="white" -->
-# Do I **hope** for Christ's **return**, or **cling** to my lifestyle? 
+# Do I **hope** for Christ's **return**, <br> or **cling** to my own lifestyle? 
 
 >>>
 + complete **upheaval** of way of life
@@ -613,7 +597,7 @@ but few are **chosen**.
 
 ---
 <!-- .slide: data-background="white" -->
-# Am I the **ungrateful** invited, <br> or the **joyful** chosen?
+# Am I an **unwilling** invitee, or a **joyful** chosen guest?
 
 >>>
 + initial invitees **heard** the call
