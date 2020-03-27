@@ -1,4 +1,4 @@
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="title" -->
+<!-- .slide: <%= bg("unsplash-uhlTPoH2Eb0-banquet_dish_table.jpg") %> id="title" -->
 # That My House May Be Filled
 ## Luke 14:15-24
 
@@ -166,7 +166,7 @@ who were invited shall taste my banquet.’”
 [Luke 14:15-24 (ESV) (p.6/6)](# "ref")
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" class="outline" -->
+<!-- .slide: <%= bg("unsplash-uhlTPoH2Eb0-banquet_dish_table.jpg") %> id="outline" class="outline" -->
 ## Parable of the Banquet [(Lk14)](# "ref")
 1. Rejoicing [(v16-17)](# "ref")
 1. Rejection [(v18-20)](# "ref")
@@ -312,7 +312,11 @@ for the **former** things have passed away.”
 + [prompt for pause]
 
 ---
-## outline 2
+<!-- .slide: <%= bg("unsplash-uhlTPoH2Eb0-banquet_dish_table.jpg") %> class="outline" -->
+## Parable of the Banquet [(Lk14)](# "ref")
+1. Rejoicing [(v16-17)](# "ref")
+1. **Rejection** [(v18-20)](# "ref")
+1. Redemption [(v21-24)](# "ref")
 
 >>>
 + first, understand the **master's** joy
@@ -451,7 +455,11 @@ But you were **unwilling**!
 + [pause for discussion]
 
 ---
-## outline 3
+<!-- .slide: <%= bg("unsplash-uhlTPoH2Eb0-banquet_dish_table.jpg") %> class="outline" -->
+## Parable of the Banquet [(Lk14)](# "ref")
+1. Rejoicing [(v16-17)](# "ref")
+1. Rejection [(v18-20)](# "ref")
+1. **Redemption** [(v21-24)](# "ref")
 
 >>>
 1. Master has a **reason** to celebrate
@@ -623,7 +631,7 @@ but few are **chosen**.
   + He is our **strength** + salvation
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-uhlTPoH2Eb0-banquet_dish_table.jpg") %> -->
 For thus said the Lord God,<br>
 the Holy One of Israel,
 
@@ -640,4 +648,4 @@ But you were **unwilling**!
 + what it takes to be Christ's **disciple**
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="empty" -->
+<!-- .slide: <%= bg("unsplash-uhlTPoH2Eb0-banquet_dish_table.jpg") %> class="empty" -->
