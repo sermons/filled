@@ -21,19 +21,33 @@
 <!-- .slide: data-background="white" -->
 # Am I ready for God to **upend** my life?
 
+>>>
++ as we look to the **Scriptures**,
++ let us **behold** the **Lamb** of God
+  + who takes away the **sin** of the world
++ [brief opening **prayer**]
+
 ---
-## Luke: the Kingdom of God
+## [Luke](# "ref"): the **Kingdom** of God
 + Jesus uses many **parables** to describe
-  + What the kingdom of God is **like**, and
-  + Who will **enter** it
+  + What the kingdom of God is *like*, and
+  + Who will *enter* it
 + [(13:22-30)](# "ref") Parable of the **narrow gate**:
-  + "Lord, **open** to us"
-  + "I do not **know** where you come from.<br>**Depart** from me!"
+  + "Lord, *open* to us"
+  + "I do not *know* where you come from.<br>*Depart* from me!"
 
 >>>
++ a continual **theme** in Luke is
+  + the **kingdom** of God
++ Jesus sets the **record** straight on it, by
+  + how He **heals** + performs miracles,
+  + the **parables** He teaches, and
+  + His **actions** leading to the cross
++ Here the **mid-section** of Luke is
+  + marked by many **parables**
 
 ---
-## [Luke 14](# "ref"): Teachings at a Feast
+## [Luke 14](# "ref"): Teachings at a **Feast**
 + [(v1-6)](# "ref") Man ill with *edema*:
   + **Healing** more important than rules
 + [(v7-11)](# "ref") *Guests* taking seats of honour:
@@ -45,16 +59,16 @@
 
 >>>
 + At home of prominent **Pharisee**
-+ Edema: (beware hardening against Jesus)
-+ Guests: even Son of Man did not come to be served but to serve
-  + (beware exalting oneself)
-+ Host: invite those who can't repay you
-  + that you may be repaid at the resurrection of the righteous
-+ Guest: how wonderful to feast in the kingdom of God!
++ **Edema**: (beware **hardening** against Jesus)
++ **Guests**: even Son of Man did not come to be **served** but to serve
+  + (beware **exalting** oneself)
++ **Host**: invite those who **can't** repay you
+  + that you may be repaid at the **resurrection** of the righteous
++ **Guest**: how wonderful to **feast** in the kingdom of God!
   + impl.: how wonderful for **us**
-  + assume will enter kingdom of God
-+ today's parable is Jesus' reply:
-  + don't be so sure you're going to be at that feast!
+  + **assume** will enter kingdom of God
++ today's parable is Jesus' **reply**:
+  + don't be so **sure** you're going to be at that feast!
 
 ******
 [15](# "ref")
@@ -323,6 +337,7 @@ and therefore I **cannot** come."
   + **life** more important
 + but do we only want to go back to **normal**
   + return to daily life? 
++ Mt describes an even **stronger** response:
 
 ---
 They paid **no attention** and went off, <br>
@@ -337,8 +352,8 @@ and **killed** them.
 [Matthew 22:5-6 (ESV)](# "ref")
 
 >>>
-+ beat, humiliated, killed servants:
-  + why must you keep **reminding** me?
++ beat, humiliated, **killed** servants
++ why must you keep **reminding** me?
 
 ---
 I was ready to be **sought**<br>
@@ -386,8 +401,6 @@ But you were **unwilling**!
 
 >>>
 + "cancel culture": flexibility, spontaneity, but also lack of commitment, demonstrates where our priorities are
-+ context: pharisees
-  + successful, accomplished, good at what we do: in property, biz, relationships
 + what we've built for ourselves becomes important to us
   + God's continual invitation/reminder interrupts our daily life, becomes annoying
 + so proud of being invited
@@ -411,7 +424,15 @@ But you were **unwilling**!
 ## outline 3
 
 >>>
-+ 21-24 (Mt22:7-10) action of master
+1. Master has a **reason** to celebrate
+  + wants to **share** His joy
+2. Guests just want to get on w/**regular life**
+  + **annoyed** at master's reminders
+3. Master's **reaction**:
+  + **extend** invitation to all 
+    + who would share His joy
+  + judgment + **shame** for those who 
+    + **rejected** the invitation
 
 ---
 Then the master of the house became **angry**<br>
@@ -474,7 +495,6 @@ but those **invited** were not **worthy**.
   + with intent: purpose is to share in Master's joy, not just get free meal
 
 ---
-[11](# "ref")
 But when the king came in <br>
 to look at the **guests**, he saw there <br>
 a man who had no **wedding garment**. 
@@ -485,33 +505,61 @@ And he said to him, <br>
 without a **wedding garment**?"<br>
 And he was **speechless**. 
 
-[Matthew 22:11-4 (ESV) (p.1/2)](# "ref")
+[Matthew 22:11-14 (ESV) (p.1/3)](# "ref")
 
 ---
 [13](# "ref")
 Then the king said to the attendants,
 
 "**Bind** him hand and foot and <br>
-**cast** him into the outer darkness.<br>
+**cast** him into the outer darkness.
+
 In that place there will be<br>
 **weeping** and gnashing of teeth."
 
-[14](# "ref")
-For many are **called**, but few are **chosen**.
-
-[Matthew 22:11-4 (ESV) (p.2/2)](# "ref")
+[Matthew 22:11-14 (ESV) (p.2/3)](# "ref")
 
 >>>
-+ clothes in Scripture: represent good deeds (e.g., Rev7:9)
-  + only those with clean clothes (have done holiness) may enter
-  + are the poor to buy clean, fancy wedding clothes?
-+ no, it was the host who would give garments to guests, like wedding favours (cf Samson, Jdg14)
-  + extravagance of clothes indicated wealth of host
-+ so a guest w/o wedding clothes means he **refused** the gift!
-+ only those w/holy living may enter heaven
-  + God imputes holiness to us through Christ: gives us the clothes
-  + but we must accept the gift
-+ many are called (invited), few are chosen (selected by preference)
++ only those w/**wedding** clothes may enter
+  + are the **poor** to buy new clothes?
++ no, it was the **host** who would 
+  + **give** garments to guests
+  + like wedding **favours** (cf Samson, Jdg14)
+  + **extravagance** of clothes indicated wealth of host
++ so a guest **w/o** wedding clothes means
+  + he **refused** the gift!
++ indicates his **intent** was just a free **meal**
+  + didn't **care** about the celebration
++ **clothes** in Scripture: 
+  + often represent good **deeds** (e.g., Rev7:9)
++ only those w/holy **lives** may enter heaven
+  + we **poor** cannot **become** holy on own
++ God **imputes** holiness to us through Christ
+  + **gives** us the clothes
+  + but we must **accept** the gift
+
+---
+[14](# "ref")
+For many are **called**, <br>
+but few are **chosen**.
+
+[Matthew 22:11-14 (ESV) (p.3/3)](# "ref")
+
+>>>
++ God's **invitation** is to all
+  + first to the **churched** <br>
+    (Jews, invited guests)
+  + then to the ends of the **earth** <br>
+    (Gentiles, random public)
++ but few are **chosen** ("called-out")
+  + selected by **preference**
++ not simply **adding** God's blessings
+  + on top of our daily **routine**
++ but **cherish** God's presence
+  + as the greatest **treasure**
++ this **faith** is also God's **gift**
+  + given to those He has **chosen**
+  + to have **mercy** upon
 
 ---
 <!-- .slide: data-background="white" -->
