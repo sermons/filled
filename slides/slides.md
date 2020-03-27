@@ -26,13 +26,16 @@
 + Jesus uses many **parables** to describe
   + What the kingdom of God is **like**, and
   + Who will **enter** it
-+ [Luke 14a](# "ref"): **feast** at home of prominent Pharisee 
-  + [(v1-6)](# "ref") Man ill with *edema*:
-    + **Healing** more important than rules
-  + [(v7-11)](# "ref") *Guests* taking seats of honour:
-    + **Humble** yourself, that God may exalt you
-  + [(v12-14)](# "ref") *Host* of banquet:
-    + Be **hospitable** to those who cannot repay you
+
+---
+## [Luke 14](# "ref"): Teachings at a Feast
+At home of prominent **Pharisee**:
++ [(v1-6)](# "ref") Man ill with *edema*:
+  + **Healing** more important than rules
++ [(v7-11)](# "ref") *Guests* taking seats of honour:
+  + **Humble** yourself, that God may exalt you
++ [(v12-14)](# "ref") *Host* of banquet:
+  + Be **hospitable** to those who cannot repay you
 + Today: [v15-24](# "ref") Who is **worthy**
   + to enter the **feast** in the kingdom of God?
 
@@ -149,11 +152,19 @@ who were invited shall taste my banquet.’”
   + parallel parable in Mt22:1-14
 + to understand the **heart** of our
   + Heavenly Father of **abundant** blessings
++ 3 **parts** of this parable
+  + follows outline of **salvation**: mini-gospel
 
-follows outline of **salvation**: mini-gospel
-1. invitation to share in celebration
-2. fall/sin: priorities
-3. extend invitation, fill the Father's House
+1. master's **invitation** to share in celebration
+  + focus is not on **guest list**
+  + but on master's **joy** which he wishes to share
+2. guests' **response** 
+  + fall/sin
+  + priorities
+3. master **extends** invitation to all comers
+  + **fill** His house
+  + all who would **accept** His gift
+  + and **share** in His joy
 
 + First: dwell on heart of Father
   + not on our own sorrows/needs
@@ -175,7 +186,6 @@ a **king** who gave a **wedding feast** for his son
 + isn't it **nice** that the **kingdom of heaven**
   + is like a wonderful **celebration**!
   + what beautiful **hope**
-+ and God has already extended the **invitation** to us
 ______
 + for us, we rarely have big **celebrations**:
   + wedding, baby shower, etc.
@@ -204,57 +214,84 @@ have been **slaughtered**"
 [Matthew 22:4 (ESV)](# "ref")
 
 >>>
-+ planned well in advance: **save-the-date**
++ a celebration that **big** would have been
+  + **planned** well in advance: **save-the-date**
   + implied that guests already RSVPd
-+ immediate **timeline**, prob that evening
-+ oxen killed: can't **cancel**
-+ the **invited**: Jews, the churched
-  + those who have heard Christ's **call**
-  + and even said "yes" to God! (**RSVP**)
++ so when **time** came,
+  + (Mt) oxen killed: can't **cancel**
++ king is **looking forward** to
+  + **sharing** his joy w/guests
++ So the **King of kings** has a **celebration** planned
+  + when we **see** Him face to face:
 
 ---
 And I saw the **holy city**, new Jerusalem,<br>
 coming down out of **heaven** from God,<br>
 prepared as a **bride** adorned for her husband.
 
-[3](# "ref")
-And I heard a loud voice from the throne<br>
-saying, “Behold, the **dwelling place** of God<br>
-is with man. He will dwell with them,<br>
-and they will be **his people**, and God<br>
-himself will be with them as **their God**.
+[Revelation 21:2-4 (ESV) (p.1/3)](# "ref")
 
-[Revelation 21:2-4 (ESV) (p.2/2)](# "ref")
+---
+[3](# "ref")
+And I heard <br>
+a loud voice from the throne saying,
+
+“Behold! <br>
+the **dwelling place** of God is with man.
+
+He will dwell with them, <br>
+and they will be **his people**,
+
+and God himself will be with them <br>
+as **their God**.
+
+[Revelation 21:2-4 (ESV) (p.2/3)](# "ref")
 
 ---
 [4](# "ref")
-He will wipe away every **tear** from their eyes,<br>
+He will wipe away every **tear** from their eyes,
+
 and **death** shall be no more,<br>
 neither shall there be **mourning**,<br>
-nor **crying**, nor **pain** anymore,<br>
+nor **crying**, nor **pain** anymore,
+
 for the **former** things have passed away.”
 
-[Revelation 21:2-4 (ESV) (p.2/2)](# "ref")
+[Revelation 21:2-4 (ESV) (p.3/3)](# "ref")
+
+>>>
++ our ultimate **hope** is
++ not that we will **eradicate** disease
+  + just get back to our **normal** lives
++ bc **death**, pain, and sin belong to 
+  + this **present** age
++ but we have a future **hope**
+  + the **wedding** feast
+  + culmination of God's plan of **salvation**
 
 ---
 <!-- .slide: data-background="white" -->
-# What **joy** does the King wish to **share** with us?
+# What **joy** does <br> the King wish <br> to **share** with us?
 
 >>>
-+ the **reason** for the invitation in parable
-  + was son's **wedding**
-+ what **celebration** has God invited us to
-  + for what **reason** is He celebrating?
-+ God's **intent** is not just for **our** comfort
-  + world doesn't **revolve** around us
++ this is the **focus**:
+  + not who's on the **guest list**
+  + but the **reason** for the celebration
++ **parable** in Mt: prince's **wedding**
++ what is the **reason** for 
+  + the Master's **joy**?
 + (prompt for pause)
 
 ---
 ## outline 2
 
 >>>
-+ **excuses** given by invited guests
-+ indicate they've continued w/regular **routine**
++ **response** from the guests
++ the **invited**: Jews, the churched
+  + those who have heard Christ's **call**
+  + and even said "yes" to God! (**RSVP**)
++ **excuses** indicate they've 
+  + continued w/regular **routine**
 
 ---
 "I have bought a **field**, <br>
@@ -284,11 +321,13 @@ and therefore I **cannot** come."
 
 ---
 They paid **no attention** and went off, <br>
-one to his **farm**, another to his **business**, 
+one to his **farm**, <br>
+another to his **business**, 
 
 [6](# "ref")
 while the rest **seized** his servants, <br>
-treated them **shamefully**, and **killed** them.
+treated them **shamefully**, <br>
+and **killed** them.
 
 [Matthew 22:5-6 (ESV)](# "ref")
 
@@ -352,7 +391,7 @@ But you were **unwilling**!
 
 ---
 <!-- .slide: data-background="white" -->
-# Am I **looking forward** to Christ's **return**?
+# Am I <br> looking **forward** to Christ's **return**?
 
 >>>
 + complete **upheaval** of way of life
@@ -472,9 +511,10 @@ For many are **called**, but few are **chosen**.
 
 ---
 <!-- .slide: data-background="white" -->
-# Who is **worthy** of entering the King's **feast**?
+# Am I the **ungrateful** invited <br> or the **joyful** poor?
 
 >>>
++ Who is **worthy** <br> to enter <br> the King's **feast**?
 + we are **undeserving** of God's grace
   + even having been **invited**
 + but not completely **passive**:
