@@ -258,6 +258,9 @@ a loud voice from the throne saying,
 “Behold! <br>
 the **dwelling place** of God is with man.
 
+[Revelation 21:2-4 (ESV) (p.1/3)](# "ref")
+
+---
 He will dwell with them, <br>
 and they will be **his people**,
 
@@ -408,7 +411,7 @@ But you were **unwilling**!
 
 ---
 <!-- .slide: data-background="white" -->
-# Am I <br> looking **forward** to Christ's **return**?
+# Am I <br> looking **forward** to <br> Christ's **return**? **Why**?
 
 >>>
 + complete **upheaval** of way of life
@@ -563,7 +566,7 @@ but few are **chosen**.
 
 ---
 <!-- .slide: data-background="white" -->
-# Am I the **ungrateful** invited <br> or the **joyful** poor?
+# Am I the **ungrateful** invited, <br> or the **joyful** poor?
 
 >>>
 + Who is **worthy** <br> to enter <br> the King's **feast**?
