@@ -176,26 +176,19 @@ who were invited shall taste my banquet.’”
 + On first read, wonder **why** was master so **angry**?
   + guests' **excuses** seem reasonable
   + can't just **drop** everything for your party
-+ But as we dive **deeper** into this passage 
-  + and **parallel** parable in Mt22:1-14
-+ we understand bit more of **heart** of our
-  + Heavenly Father of **abundant** blessings
-+ 3 **parts** of this parable
-  + follows outline of **salvation**: mini-gospel
++ dive **deeper**, parallel in **Mt22:1-14**
++ understand bit more of **heart** of Father
++ 3 **parts**: outline of **salvation**, mini-gospel
 
 1. master's **invitation** to share in celebration
   + focus not on **guests**
   + but on master's **joy** which he wishes to share
-2. **response** of those invited
-  + fall/sin
-  + priorities
-3. master **extends** invitation to all comers
-  + **fill** His house
-  + all who would **accept** His gift
+2. **response** of those invited: fall/sin, priorities
+3. **extend** invitation to all who **accept**
   + and **share** in His joy
+  + **fill** His house
 
-+ First: dwell on heart of Father
-  + not on our own sorrows/needs
++ First: focus on **heart** of Father
 
 ---
 A man once gave <br>
