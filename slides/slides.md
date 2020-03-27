@@ -6,13 +6,11 @@
 + world in midst of **crisis**
 + new coronavirus is **deadly**,
   + **contagious**, and worldwide
-+ changed our **daily habits**
   + impacted **jobs**, schooling,
 + and even **family** life:
-  + unable to visit **relatives**
   + many **elderly** isolated + stressed
   + parents suddenly have to **homeschool** kids
-+ many ask: is it going to get **better**?
++ natural to ask: is it going to get **better**?
   + when will we get back to **normal**?
 
 ---
@@ -23,12 +21,12 @@
 + do I cling to the **familiar** for security? 
 + now more than ever, we're looking for **hope**
   + but **what** do we hope for?
-+ crises are **turning points**:
-  + reveal our **hearts**
++ every crisis is a **turning point**:
+  + reveals our **hearts**
   + opp. to reexamine our **priorities**
   + and find renewed **hope**!
-+ as we look to the **Scriptures**,
-+ let us **behold** the **Lamb** of God
++ let's look to the **Scriptures**,
++ together **behold** the **Lamb** of God
   + who takes away the **sin** of the world
 + [brief opening **prayer**]
   + [then **review**]
@@ -46,7 +44,7 @@
 >>>
 + a continual **theme** in Luke is
   + the **kingdom** of God
-+ Jesus sets the **record** straight on it, by
++ Jesus **tells** us what it's like by
   + how He **heals** + performs miracles,
   + the **parables** He teaches, and
   + His **actions** leading to the cross
@@ -188,7 +186,7 @@ who were invited shall taste my banquet.’”
 1. master's **invitation** to share in celebration
   + focus not on **guests**
   + but on master's **joy** which he wishes to share
-2. guests' **response** 
+2. **response** of those invited
   + fall/sin
   + priorities
 3. master **extends** invitation to all comers
@@ -246,12 +244,13 @@ have been **slaughtered**"
 >>>
 + a celebration that **big** would have been
   + **planned** well in advance: **save-the-date**
-  + implied that guests already RSVPd
+  + those invited would have already RSVPd
 + so when **time** came,
   + (Mt) oxen killed: can't **cancel**
 + king is **looking forward** to
   + **sharing** his joy w/guests
-+ So the **King of kings** has a **celebration** planned
++ in the same way, the **King of kings**
+  + has a **celebration** planned
   + after the final **judgment**:
 
 ---
@@ -297,8 +296,6 @@ for the **former** things have passed away.”
 + Yes, we must still be **vigilant** in
   + **defending** against disease
   + but we can never **eradicate** it
-+ and our **hope** is not just to
-  + get back to our **normal** lives
 + bc **death**, pain, and sin belong to 
   + this **present** age
 + but we have a future **hope**
@@ -313,25 +310,26 @@ for the **former** things have passed away.”
 + **hard** to think about God's **promises**
   + seem so **far** away
   + my **stress** / need / pain is right **now**
-+ but this is the **focus**:
-+ what is the **reason** for 
-  + the Master's **joy**?
-+ what are we **hoping** for? 
-+ (prompt for pause)
++ and that's exactly our **problem**:
++ we are focused on getting **back** to
+  + our **busy** lives
++ we've forgotten to look **forward** to
+  + the future **hope**
+  + God has **reserved** for those who accept it
++ [prompt for pause]
 
 ---
 ## outline 2
 
 >>>
-+ first, put ourselves in the **master's** shoes
-  + understand the **joy**
-  + he wants to **share** with others
++ first, understand the **master's** joy
+  + wants to **share** with others
 + now, we turn to the **invited**:
   + Jews, the **churched**
   + those who have heard Christ's **call**
   + and even said "**yes**" to God!
   + (**RSVP**: e.g., baptized)
-+ **excuses** indicate they **prioritize**
++ their **excuses** indicate they **prioritize**
   + their **own** endeavours over
   + the **joy** of the king
 
@@ -351,18 +349,24 @@ and therefore I **cannot** come."
 [Luke 14:18-20 (ESV)](# "ref")
 
 >>>
-+ field: buy property, have **possessions**
-+ oxen: invest in business, build **career**
-+ married: **relationships** / family
++ field: buy property, **possessions**
+  + oxen: invest in biz, build **career**
+  + married: **relationships** / family
 + all good **blessings** from God
   + things that normally **fill** our lives
++ **obligations** ("must", "cannot"):
+  + e.g., Chinese **work ethic** sees
+  + **responsibilities** as more important
+  + than **celebration**
 + COVID19: all these on **hold**
   + **crisis**: interruption causes
   + reexamine our **priorities**
-+ Clarify: disease bc of mankind's **sin**
-  + not a **specific** person/country
-  + so our world + bodies are **broken**
-+ Mt says king sends servants **multiple** times
++ clarify: God is not **pleased** w/COVID
+  + our world + bodies are **broken**
+  + because of **sin** of all mankind
++ in the **midst** of our trials
+  + God sends **reminders** time + again
++ Mt: king sends servants **multiple** times
   + invited respond even more **strongly**:
 
 ---
@@ -378,17 +382,17 @@ and **killed** them.
 [Matthew 22:5-6 (ESV)](# "ref")
 
 >>>
-+ beat, humiliated, **killed** servants
-  + repr. **prophets** spoke Word of God
++ servants represent **prophets**
+  + who **spoke** Word of God
 + when God **reminds** us to
   + **adjust** our priorities,
-+ we **ignore** Him, or say:
-+ "you're **interrupting** my daily life"
-+ "your party isn't **that** important to me"
-+ "why must you keep **pestering** me?"
++ we either **ignore** Him, or say:
+  + "you're **interrupting** my daily life"
+  + "your party isn't **that** important to me"
+  + "why must you keep **pestering** me?"
 + All along, God is **offering** us
   + a **pathway** to peace
-+ but we see it as **bothersome**!
++ but we see it as **bothersome**
   + in the preceding **chapter**:
 
 ---
@@ -440,7 +444,7 @@ But you were **unwilling**!
 
 ---
 <!-- .slide: data-background="white" -->
-# Am I <br> looking **forward** to <br> Christ's **return**? **Why**?
+# Do I **hope** for Christ's **return**, or **cling** to my lifestyle? 
 
 >>>
 + complete **upheaval** of way of life
@@ -449,8 +453,9 @@ But you were **unwilling**!
   + **human** disasters: war, betrayal
 + our **hope** is not that God 
   + restores our **"normal"** daily habits
-  + but a **joy** far beyond anything in this life
-+ (pause for discussion)
++ but a far greater **joy**
+  + the joy of the **victorious** King
++ [pause for discussion]
 
 ---
 ## outline 3
@@ -458,11 +463,11 @@ But you were **unwilling**!
 >>>
 1. Master has a **reason** to celebrate
   + wants to **share** His joy
-2. Guests just want to get on w/**regular life**
+2. Those invited just want to get on w/**regular life**
   + **annoyed** at master's reminders
 3. Master's **reaction**:
   + **extend** invitation to all 
-    + who would share His joy
+    + who would **share** His joy
   + judgment + **shame** for those who 
     + **rejected** the invitation
 
@@ -487,8 +492,8 @@ and **blind** and **lame**.’
 + **poor**, crippled (injured in limbs),
   + blind, lame (stopped, unable to walk)
 + these who are **needy** are more
-  + **appreciative** of the
-  + Master's **hospitality**
+  + **appreciative** of
+  + the Master's **hospitality**
 + but it doesn't **stop** there! 
   + there's still **room**, so:
 
@@ -505,12 +510,16 @@ that my house may be **filled**.
 + **countryside**, farther afield:
   + not **enough** guests, need more
   + not necessarily **poor**
-  + just **any** random person
-+ **compel** them: might not be **needy**
-  + or as **eager** for a free meal
-+ host's objective is to **fill** his house:
-  + **celebrate**, share his joy
-  + with those who **want** to be there
+  + **any** + all comers
++ **compel**: constrain, pressure
+  + might not **know** host
+  + initially **reluctant**
++ gave the **invited** a chance
+  + i.e., Jews: **churched**
++ now invites **everyone**
+  + i.e., Gentiles, ends of the **earth**
++ objective is to **fill** his house:
+  + with those who **share** his joy
 
 ---
 For I tell you, **none** of those men<br>
@@ -523,6 +532,7 @@ who were **invited** shall taste my banquet.
   + God's **grace** toward the undeserving
 + but also God's **judgment** on
   + those who **reject** his gift
++ in Matthew, the king declares:
 
 ---
 The wedding feast is ready, <br>
@@ -533,11 +543,10 @@ but those **invited** were not **worthy**.
 >>>
 + **receiving** invitation (hearing God's word)
   + **doesn't** make us worthy
-  + being **poor** doesn't make us worthy
++ being **poor** doesn't make us worthy
   + being **holy** doesn't make us worthy
-+ it took **action**: coming to the feast
-  + w/**intent**: to share Master's **joy**
-  + not just get free **meal**
++ it took **action** (coming to the feast)
+  + w/**intent** (to share Master's **joy**)
 + parable in **Mt** has an interesting **epilogue**:
 
 ---
@@ -593,33 +602,32 @@ but few are **chosen**.
 
 >>>
 + God's **invitation** is to all
-  + first to the **churched** <br>
-    (Jews, invited guests)
-  + then to the ends of the **earth** <br>
-    (Gentiles, random public)
-+ but few are **chosen** ("called-out")
++ but few are **chosen** ("called-out", church)
   + selected by **preference**
-+ not simply **adding** God's blessings
-  + on top of our daily **routine**
-+ but **cherish** God's presence
++ we are selected by God's **grace**
+  + to receive **mercy**
++ to **cherish** God's presence
   + as the greatest **treasure**
-+ this **faith** is also God's **gift**
-  + given to those He has **chosen**
-  + to have **mercy** upon
++ Examine my own **heart**:
 
 ---
 <!-- .slide: data-background="white" -->
-# Am I the **ungrateful** invited, <br> or the **joyful** guest?
+# Am I the **ungrateful** invited, <br> or the **joyful** chosen?
 
 >>>
-+ Who is **worthy** <br> to enter <br> the King's **feast**?
-+ we are **undeserving** of God's grace
-  + even having been **invited**
-+ but not completely **passive**:
-  + we must **respond** to the invitation
-  + be **prepared** for the day of His return
-+ come to God not only for His **blessings**
-  + but to share in His **joy**
++ initial invitees **heard** the call
+  + but were too **busy** w/daily lives
+  + **preoccupied** w/possessions, biz, family
++ didn't see **value** in king's celebration
++ the **chosen** true guests
+  + come from all **corners** of earth
++ **respond** to the invitation
+  + not only to receive **blessings**
+  + but to share in God's **joy**
++ In our hour of **need**
+  + don't cling to our **independence**
++ **return** to Jesus
+  + He is our **strength** + salvation
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> -->
