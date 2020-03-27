@@ -1,6 +1,7 @@
 <!-- .slide: <%= bg("unsplash-uhlTPoH2Eb0-banquet_dish_table.jpg") %> id="title" -->
 # That My House May Be Filled
 ## Luke 14:15-24
+[Toa Heftiba](https://unsplash.com/photos/uhlTPoH2Eb0 "caption")
 
 >>>
 + world in midst of **crisis**
@@ -33,6 +34,7 @@
   + [then today's **passage**]
 
 ---
+<!-- .slide: <%= bg("unsplash-qKIaA41lMjM-alps.jpg") %> -->
 ## [Luke:](# "ref") the **Kingdom** of God
 + Jesus uses many **parables** to describe
   + What the kingdom of God is *like*, and
@@ -40,6 +42,8 @@
 + [(13:22-30)](# "ref") Parable of the **narrow gate**:
   + "Lord, *open* to us"
   + "I do not *know* where you come from.<br>*Depart* from me!"
+
+[Brandenburg Alps, Austria.  Paul Gilmore](https://unsplash.com/photos/qKIaA41lMjM)
 
 >>>
 + In Luke, Jesus **tells** us
@@ -51,6 +55,7 @@
   + marked by many **parables**
 
 ---
+<!-- .slide: <%= bg("Gandolfi-Marriage_Cana.jpg") %> -->
 ## [Luke 14:](# "ref") Teachings at a **Feast**
 + [(v1-6)](# "ref") Man ill with *edema*:
   + **Healing** more important than rules
@@ -60,6 +65,8 @@
   + **Hospitality** to those who cannot repay
 + Today: [v15-24](# "ref") Who is **worthy** to enter
   + the **feast** in the kingdom of God?
+
+[Gaetano Gandolfi, "The Marriage at Cana", 1766](http://art.thewalters.org/detail/29388 "caption")
 
 >>>
 + Setting of ch14: **banquet**
@@ -88,7 +95,6 @@ eat bread in the kingdom of God!”
 [Luke 14:15-24 (ESV) (p.1/6)](# "ref")
 
 ******
-
 [16](# "ref")
 But he said to him, “A man once gave <br>
 a great banquet and invited many.
@@ -103,7 +109,6 @@ to those who had been invited,
 [Luke 14:15-24 (ESV) (p.2/6)](# "ref")
 
 ******
-
 [18](# "ref")
 But they all alike began to make excuses.
 
@@ -119,7 +124,6 @@ Please have me excused.’
 [Luke 14:15-24 (ESV) (p.3/6)](# "ref")
 
 ******
-
 [20](# "ref")
 And another said, ‘I have married a wife,<br>
 and therefore I cannot come.’
@@ -134,7 +138,6 @@ and said to his servant,
 [Luke 14:15-24 (ESV) (p.4/6)](# "ref")
 
 ******
-
 ‘Go out quickly <br>
 to the streets and lanes of the city,
 
@@ -149,7 +152,6 @@ and still there is room.’
 [Luke 14:15-24 (ESV) (p.5/6)](# "ref")
 
 ******
-
 [23](# "ref")
 And the master said to the servant,<br>
 ‘Go out to the highways and hedges
@@ -188,6 +190,7 @@ who were invited shall taste my banquet.’”
 + First: focus on **heart** of Father
 
 ---
+<!-- .slide: <%= bg("unsplash-O38Id_cyV4M-dining_table_flowers.jpg") %> -->
 A man once gave <br>
 a great **banquet** and invited **many**.
 
@@ -197,6 +200,7 @@ The kingdom of heaven may be compared to <br>
 a **king** who gave a **wedding feast** for his son
 
 [Matthew 22:2 (ESV)](# "ref")
+[Photos by Lanty](https://unsplash.com/photos/O38Id_cyV4M "caption")
 
 >>>
 + **huge** celebration (king would've been very **wealthy**)
@@ -213,6 +217,7 @@ ______
   + and want to **share** that joy with others
 
 ---
+<!-- .slide: <%= bg("pixabay-1390463-pezibear-letter_roses.jpg") %> -->
 And at the **time** for the banquet <br>
 he sent his servant to say <br>
 to those who had been **invited**,<br>
@@ -238,6 +243,7 @@ have been **slaughtered**"
   + after the final **judgment**:
 
 ---
+<!-- .slide: <%= bg("unsplash-cynn7cTgOCU-bright_clouds.jpg") %> -->
 And I saw the **holy city**, new Jerusalem,<br>
 coming down out of **heaven** from God,<br>
 prepared as a **bride** adorned for her husband.
@@ -245,6 +251,7 @@ prepared as a **bride** adorned for her husband.
 [Revelation 21:2-4 (ESV) (p.1/4)](# "ref")
 
 ---
+<!-- .slide: <%= bg("unsplash-cynn7cTgOCU-bright_clouds.jpg") %> -->
 [3](# "ref")
 And I heard <br>
 a loud voice from the throne saying,
@@ -255,6 +262,7 @@ the **dwelling place** of God is with man.
 [Revelation 21:2-4 (ESV) (p.2/4)](# "ref")
 
 ---
+<!-- .slide: <%= bg("unsplash-cynn7cTgOCU-bright_clouds.jpg") %> -->
 He will dwell with them, <br>
 and they will be **his people**,
 
@@ -264,6 +272,7 @@ as **their God**.
 [Revelation 21:2-4 (ESV) (p.3/4)](# "ref")
 
 ---
+<!-- .slide: <%= bg("unsplash-cynn7cTgOCU-bright_clouds.jpg") %> -->
 [4](# "ref")
 He will wipe away every **tear** from their eyes,
 
@@ -321,6 +330,7 @@ for the **former** things have passed away.”
   + the **joy** of the king
 
 ---
+<!-- .slide: <%= bg("unsplash-IBUcu_9vXJc-meeting_hands.jpg") %> -->
 "I have bought a **field**, <br>
 and I must go out and see it.<br>
 Please have me **excused**."
@@ -334,6 +344,7 @@ and I go to examine them."
 and therefore I **cannot** come."
 
 [Luke 14:18-20 (ESV)](# "ref")
+[Helsinki, Finland. Thomas Drouault](https://unsplash.com/photos/IBUcu_9vXJc "caption")
 
 >>>
 + field: buy property, **possessions**
@@ -351,6 +362,7 @@ ______
 + in the **midst** of our trials, God sends **reminders** time + again
 
 ---
+<!-- .slide: <%= bg("Raphael-St_Paul_Preaching_Athens.jpg") %> -->
 They paid **no attention** and went off, <br>
 one to his **farm**, <br>
 another to his **business**, 
@@ -361,6 +373,7 @@ treated them **shamefully**, <br>
 and **killed** them.
 
 [Matthew 22:5-6 (ESV)](# "ref")
+[Raphael, "St. Paul Preaching in Athens", 1515](http://www.the-athenaeum.org/art/detail.php?ID=34558 "caption")
 
 >>>
 + servants represent **prophets**
@@ -371,6 +384,7 @@ and **killed** them.
 + in the preceding **chapter**:
 
 ---
+<!-- .slide: <%= bg("unsplash-LAVcmB1Gli0-chicks.jpg") %> -->
 O Jerusalem, Jerusalem, <br>
 the city that **kills** the prophets <br>
 and **stones** those who are sent to it!
@@ -382,6 +396,7 @@ as a **hen** gathers her brood under her wings,
 and you were **not willing**!
 
 [Luke 13:34 (ESV)](# "ref")
+[Michael Anfang](https://unsplash.com/photos/LAVcmB1Gli0 "caption")
 
 >>>
 + God longs to **comfort** + protect w/**motherly** love
@@ -396,6 +411,7 @@ and you were **not willing**!
 + again, in **Isaiah**:
 
 ---
+<!-- .slide: <%= bg("unsplash-rdwkamJlpiU-mist-mtns.jpg") %> -->
 For thus said the Lord God,<br>
 the Holy One of Israel,
 
@@ -406,6 +422,7 @@ shall be your strength.”
 But you were **unwilling**!
 
 [Isaiah 30:15 (ESV)](# "ref")
+[Savoie, France. Thomas Tixtaaz](https://unsplash.com/photos/rdwkamJlpiU "caption")
 
 >>>
 + He offers **salvation** + strength
@@ -448,6 +465,7 @@ But you were **unwilling**!
   + judgment + **shame** for those who **rejected**
 
 ---
+<!-- .slide: <%= bg("unsplash-ghbepAO7BCs-vancouver_street.jpg") %> -->
 Then the master of the house became **angry**<br>
 and said to his servant,
 
@@ -458,6 +476,7 @@ and bring in the **poor** and **crippled** <br>
 and **blind** and **lame**.’
 
 [Luke 14:21 (ESV)](# "ref")
+[Vancouver, BC.  Aditya Chinchure](https://unsplash.com/photos/ghbepAO7BCs "caption")
 
 >>>
 + **angry** (even more severe in Mt), w/**urgency**
@@ -471,6 +490,7 @@ and **blind** and **lame**.’
   + there's still **room**, so:
 
 ---
+<!-- .slide: <%= bg("unsplash-DiKkJKvDi64-tree_road.jpg") %> -->
 And the master said to the servant,<br>
 ‘Go out to the **highways** and **hedges**
 
@@ -478,6 +498,7 @@ and **compel** people to come in,<br>
 that my house may be **filled**.
 
 [Luke 14:23 (ESV)](# "ref")
+[Venray, Netherlands. Michael Coury](https://unsplash.com/photos/DiKkJKvDi64 "caption")
 
 >>>
 + **countryside**, farther afield: not **enough**, need more
@@ -490,10 +511,12 @@ that my house may be **filled**.
   + so that:
 
 ---
+<!-- .slide: <%= bg("unsplash-Wa-gS5R58gA-group_silhouette.jpg") %> -->
 For I tell you, **none** of those men<br>
 who were **invited** shall taste my banquet.
 
 [Luke 14:24 (ESV)](# "ref")
+[Piha Beach, NZ. Tim Marshall](https://unsplash.com/photos/Wa-gS5R58gA "caption")
 
 >>>
 + **redemption** is not only about
@@ -502,10 +525,12 @@ who were **invited** shall taste my banquet.
 + in Matthew, the king declares:
 
 ---
+<!-- .slide: <%= bg("unsplash-Ul07QK2AR-0-dining_table_plates.jpg") %> -->
 The wedding feast is ready, <br>
 but those **invited** were not **worthy**.
 
 [Matthew 22:8 (ESV)](# "ref")
+[Jordan Arnold](https://unsplash.com/photos/Ul07QK2AR-0 "caption")
 
 >>>
 + **receiving** invitation (hearing God's word)
@@ -517,6 +542,7 @@ but those **invited** were not **worthy**.
 + parable in **Mt** has an interesting **epilogue**:
 
 ---
+<!-- .slide: <%= bg("unsplash-MujZAKea8Lw-suit.jpg") %> -->
 But when the king came in <br>
 to look at the **guests**, he saw there <br>
 a man who had no **wedding garment**. 
@@ -528,8 +554,10 @@ without a **wedding garment**?"<br>
 And he was **speechless**. 
 
 [Matthew 22:11-14 (ESV) (p.1/3)](# "ref")
+[Jakarta, Indonesia. Hardini Lestari](https://unsplash.com/photos/MujZAKea8Lw "caption")
 
 ---
+<!-- .slide: <%= bg("unsplash-xCdFXXoZkJc-dark_sky.jpg") %> -->
 [13](# "ref")
 Then the king said to the attendants,
 
@@ -540,6 +568,7 @@ In that place there will be<br>
 **weeping** and gnashing of teeth."
 
 [Matthew 22:11-14 (ESV) (p.2/3)](# "ref")
+[Ukraine. Paul Itkin](https://unsplash.com/photos/xCdFXXoZkJc "caption")
 
 >>>
 + only those w/**wedding** clothes may enter
@@ -558,11 +587,13 @@ In that place there will be<br>
   + but we must **accept** the gift
 
 ---
+<!-- .slide: <%= bg("unsplash-3Kv48NS4WUU-road_forest_light.jpg") %> -->
 [14](# "ref")
 For many are **called**, <br>
 but few are **chosen**.
 
 [Matthew 22:11-14 (ESV) (p.3/3)](# "ref")
+[Avenue of the Giants, CA. John Towner](https://unsplash.com/photos/3Kv48NS4WUU "caption")
 
 >>>
 + God's **invitation** is to everyone,
