@@ -252,14 +252,14 @@ have been **slaughtered**"
 + king is **looking forward** to
   + **sharing** his joy w/guests
 + So the **King of kings** has a **celebration** planned
-  + when we **see** Him face to face:
+  + after the final **judgment**:
 
 ---
 And I saw the **holy city**, new Jerusalem,<br>
 coming down out of **heaven** from God,<br>
 prepared as a **bride** adorned for her husband.
 
-[Revelation 21:2-4 (ESV) (p.1/3)](# "ref")
+[Revelation 21:2-4 (ESV) (p.1/4)](# "ref")
 
 ---
 [3](# "ref")
@@ -269,7 +269,7 @@ a loud voice from the throne saying,
 “Behold! <br>
 the **dwelling place** of God is with man.
 
-[Revelation 21:2-4 (ESV) (p.1/3)](# "ref")
+[Revelation 21:2-4 (ESV) (p.2/4)](# "ref")
 
 ---
 He will dwell with them, <br>
@@ -278,7 +278,7 @@ and they will be **his people**,
 and God himself will be with them <br>
 as **their God**.
 
-[Revelation 21:2-4 (ESV) (p.2/3)](# "ref")
+[Revelation 21:2-4 (ESV) (p.3/4)](# "ref")
 
 ---
 [4](# "ref")
@@ -290,12 +290,15 @@ nor **crying**, nor **pain** anymore,
 
 for the **former** things have passed away.”
 
-[Revelation 21:2-4 (ESV) (p.3/3)](# "ref")
+[Revelation 21:2-4 (ESV) (p.4/4)](# "ref")
 
 >>>
-+ our ultimate **hope** is
-+ not that we will **eradicate** disease
-  + just get back to our **normal** lives
++ this is our ultimate **hope**! 
++ Yes, we must still be **vigilant** in
+  + **defending** against disease
+  + but we can never **eradicate** it
++ and our **hope** is not just to
+  + get back to our **normal** lives
 + bc **death**, pain, and sin belong to 
   + this **present** age
 + but we have a future **hope**
@@ -307,24 +310,30 @@ for the **former** things have passed away.”
 # What **joy** does <br> the King wish <br> to **share** with us?
 
 >>>
-+ this is the **focus**:
-  + not who's on the **guest list**
-  + but the **reason** for the celebration
-+ **parable** in Mt: prince's **wedding**
++ **hard** to think about God's **promises**
+  + seem so **far** away
+  + my **stress** / need / pain is right **now**
++ but this is the **focus**:
 + what is the **reason** for 
   + the Master's **joy**?
++ what are we **hoping** for? 
 + (prompt for pause)
 
 ---
 ## outline 2
 
 >>>
-+ **response** from the guests
-+ the **invited**: Jews, the churched
++ first, put ourselves in the **master's** shoes
+  + understand the **joy**
+  + he wants to **share** with others
++ now, we turn to the **invited**:
+  + Jews, the **churched**
   + those who have heard Christ's **call**
-  + and even said "yes" to God! (**RSVP**)
-+ **excuses** indicate they've 
-  + continued w/regular **routine**
+  + and even said "**yes**" to God!
+  + (**RSVP**: e.g., baptized)
++ **excuses** indicate they **prioritize**
+  + their **own** endeavours over
+  + the **joy** of the king
 
 ---
 "I have bought a **field**, <br>
@@ -342,16 +351,19 @@ and therefore I **cannot** come."
 [Luke 14:18-20 (ESV)](# "ref")
 
 >>>
-+ field: buying property, having **possessions**
-+ oxen: invest in business, building **career**
++ field: buy property, have **possessions**
++ oxen: invest in business, build **career**
 + married: **relationships** / family
 + all good **blessings** from God
   + things that normally **fill** our lives
 + COVID19: all these on **hold**
-  + **life** more important
-+ but do we only want to go back to **normal**
-  + return to daily life? 
-+ Mt describes an even **stronger** response:
+  + **crisis**: interruption causes
+  + reexamine our **priorities**
++ Clarify: disease bc of mankind's **sin**
+  + not a **specific** person/country
+  + so our world + bodies are **broken**
++ Mt says king sends servants **multiple** times
+  + invited respond even more **strongly**:
 
 ---
 They paid **no attention** and went off, <br>
@@ -367,7 +379,17 @@ and **killed** them.
 
 >>>
 + beat, humiliated, **killed** servants
-+ why must you keep **reminding** me?
+  + repr. **prophets** spoke Word of God
++ when God **reminds** us to
+  + **adjust** our priorities,
++ we **ignore** Him, or say:
++ "you're **interrupting** my daily life"
++ "your party isn't **that** important to me"
++ "why must you keep **pestering** me?"
++ All along, God is **offering** us
+  + a **pathway** to peace
++ but we see it as **bothersome**!
+  + in the preceding **chapter**:
 
 ---
 O Jerusalem, Jerusalem, <br>
@@ -382,6 +404,13 @@ and you were **not willing**!
 
 [Luke 13:34 (ESV)](# "ref")
 
+>>>
++ Father longs to **comfort** + protect
+  + keep us **close** to Him
++ it is **we** who are unwilling
+  + trust in our **independence**
++ again, in **Isaiah**:
+
 ---
 For thus said the Lord God,<br>
 the Holy One of Israel,
@@ -395,11 +424,19 @@ But you were **unwilling**!
 [Isaiah 30:15 (ESV)](# "ref")
 
 >>>
-+ "cancel culture": flexibility, spontaneity, but also lack of commitment, demonstrates where our priorities are
-+ what we've built for ourselves becomes important to us
-  + God's continual invitation/reminder interrupts our daily life, becomes annoying
-+ so proud of being invited
-  + but do we actually want to go? 
++ He offers **salvation** + strength
++ as we **return** to Him (= repent)
+  + both humble **stillness**
+  + and faithful **action**
++ but we **reject** it! 
++ our **lives** we've built for ourselves
+  + become **essential** to us
++ God's continual **invitation** / reminders
+  + **interrupt** our daily life
+  + we become **annoyed**
++ like the **Pharisees**, we are
+  + so proud of having the **invitation**
++ but do we actually want to **go**? 
 
 ---
 <!-- .slide: data-background="white" -->
@@ -407,9 +444,9 @@ But you were **unwilling**!
 
 >>>
 + complete **upheaval** of way of life
-+ prior to return, increased
-  + natural disasters: famine, disease
-  + human disasters: war, betrayal
++ prior to Christ's **return**, increased
+  + **natural** disasters: famine, disease
+  + **human** disasters: war, betrayal
 + our **hope** is not that God 
   + restores our **"normal"** daily habits
   + but a **joy** far beyond anything in this life
@@ -444,8 +481,16 @@ and **blind** and **lame**.’
 >>>
 + **angry**: Mt22:7 even more severe
 + **quickly**, at once: urgency
-+ streets+alleys of city: both big and small streets, anywhere
-+ poor, crippled (injured in limbs), blind, lame (stopped, unable to walk)
++ **streets** + alleys of city:
+  + both big and **small** streets
+  + **anywhere**, at random
++ **poor**, crippled (injured in limbs),
+  + blind, lame (stopped, unable to walk)
++ these who are **needy** are more
+  + **appreciative** of the
+  + Master's **hospitality**
++ but it doesn't **stop** there! 
+  + there's still **room**, so:
 
 ---
 And the master said to the servant,<br>
@@ -457,11 +502,15 @@ that my house may be **filled**.
 [Luke 14:23 (ESV)](# "ref")
 
 >>>
-+ **countryside**, farther afield: not enough guests
++ **countryside**, farther afield:
+  + not **enough** guests, need more
   + not necessarily **poor**
   + just **any** random person
-+ **compel** them: might not be needy or as eager for a free meal
-+ host's objective is to fill his house: celebrate, share his joy with those who would share his joy
++ **compel** them: might not be **needy**
+  + or as **eager** for a free meal
++ host's objective is to **fill** his house:
+  + **celebrate**, share his joy
+  + with those who **want** to be there
 
 ---
 For I tell you, **none** of those men<br>
@@ -470,7 +519,7 @@ who were **invited** shall taste my banquet.
 [Luke 14:24 (ESV)](# "ref")
 
 >>>
-+ redemption is not only about
++ **redemption** is not only about
   + God's **grace** toward the undeserving
 + but also God's **judgment** on
   + those who **reject** his gift
@@ -482,12 +531,14 @@ but those **invited** were not **worthy**.
 [Matthew 22:8 (ESV)](# "ref")
 
 >>>
-+ again, guests' own accomplishments, prior relationship w/host, etc. are irrelevant
-  + receiving invitation (hearing God's word) doesn't make us worthy
-  + being poor doesn't make us worthy
-  + being holy doesn't make us worthy
-+ it takes action: coming to the feast
-  + with intent: purpose is to share in Master's joy, not just get free meal
++ **receiving** invitation (hearing God's word)
+  + **doesn't** make us worthy
+  + being **poor** doesn't make us worthy
+  + being **holy** doesn't make us worthy
++ it took **action**: coming to the feast
+  + w/**intent**: to share Master's **joy**
+  + not just get free **meal**
++ parable in **Mt** has an interesting **epilogue**:
 
 ---
 But when the king came in <br>
@@ -558,7 +609,7 @@ but few are **chosen**.
 
 ---
 <!-- .slide: data-background="white" -->
-# Am I the **ungrateful** invited, <br> or the **joyful** poor?
+# Am I the **ungrateful** invited, <br> or the **joyful** guest?
 
 >>>
 + Who is **worthy** <br> to enter <br> the King's **feast**?
@@ -569,11 +620,19 @@ but few are **chosen**.
   + be **prepared** for the day of His return
 + come to God not only for His **blessings**
   + but to share in His **joy**
-+ (pause for discussion)
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> -->
-(closing reading)
+For thus said the Lord God,<br>
+the Holy One of Israel,
+
+“In **returning** and **rest** you shall be saved;<br>
+in **quietness** and in **trust**<br>
+shall be your strength.”
+
+But you were **unwilling**!
+
+[Isaiah 30:15 (ESV)](# "ref")
 
 >>>
 + next time: last part of ch14
