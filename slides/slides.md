@@ -26,14 +26,14 @@
 + opportunity to reexamine our **priorities**
   + and find renewed **hope**!
 + let's look to the **Scriptures**,
-+ together **behold** the **Lamb** of God
++ together: **behold** the **Lamb** of God
   + who takes away the **sin** of the world
 + [brief opening **prayer**]
   + [then **review**]
   + [then today's **passage**]
 
 ---
-## [Luke](# "ref"): the **Kingdom** of God
+## [Luke:](# "ref") the **Kingdom** of God
 + Jesus uses many **parables** to describe
   + What the kingdom of God is *like*, and
   + Who will *enter* it
@@ -51,7 +51,7 @@
   + marked by many **parables**
 
 ---
-## [Luke 14](# "ref"): Teachings at a **Feast**
+## [Luke 14:](# "ref") Teachings at a **Feast**
 + [(v1-6)](# "ref") Man ill with *edema*:
   + **Healing** more important than rules
 + [(v7-11)](# "ref") *Guests* taking seats of honour:
@@ -165,10 +165,10 @@ who were invited shall taste my banquet.’”
 
 ---
 <!-- .slide: <%= bg("unsplash-uhlTPoH2Eb0-banquet_dish_table.jpg") %> id="outline" class="outline" -->
-## Parable of the Banquet [(Lk14)](# "ref")
-1. Rejoicing [(v16-17)](# "ref")
-1. Rejection [(v18-20)](# "ref")
-1. Redemption [(v21-24)](# "ref")
+## [Lk14:](# "ref") Parable of the Banquet
+1. **Rejoicing** [(v16-17)](# "ref")
+1. **Rejection** [(v18-20)](# "ref")
+1. **Redemption** [(v21-24)](# "ref")
 
 >>>
 + On first read, wonder **why** was master so **angry**?
@@ -304,7 +304,7 @@ for the **former** things have passed away.”
 
 ---
 <!-- .slide: <%= bg("unsplash-uhlTPoH2Eb0-banquet_dish_table.jpg") %> class="outline" -->
-## Parable of the Banquet [(Lk14)](# "ref")
+## [Lk14:](# "ref") Parable of the Banquet
 1. Rejoicing [(v16-17)](# "ref")
 1. **Rejection** [(v18-20)](# "ref")
 1. Redemption [(v21-24)](# "ref")
@@ -433,7 +433,7 @@ But you were **unwilling**!
 
 ---
 <!-- .slide: <%= bg("unsplash-uhlTPoH2Eb0-banquet_dish_table.jpg") %> class="outline" -->
-## Parable of the Banquet [(Lk14)](# "ref")
+## [Lk14:](# "ref") Parable of the Banquet
 1. Rejoicing [(v16-17)](# "ref")
 1. Rejection [(v18-20)](# "ref")
 1. **Redemption** [(v21-24)](# "ref")
