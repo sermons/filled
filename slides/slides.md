@@ -349,8 +349,6 @@ ______
 + clarify: God is not **pleased** w/COVID
   + our world + bodies are **broken** bc **sin** of all mankind
 + in the **midst** of our trials, God sends **reminders** time + again
-+ Mt: king sends servants **multiple** times
-  + invited respond even more **strongly**:
 
 ---
 They paid **no attention** and went off, <br>
@@ -367,14 +365,10 @@ and **killed** them.
 >>>
 + servants represent **prophets**
   + who **spoke** Word of God
-+ when God **reminds** us to **adjust** our priorities,
-+ we either **ignore** Him, or say:
-  + "you're **interrupting** my daily life"
-  + "your party isn't **that** important to me"
-  + "why must you keep **pestering** me?"
+  + unpopular **truth** in times of extreme **disaster**
 + All along, God is **offering** us a **pathway** to peace
-+ but we see it as **bothersome**
-  + in the preceding **chapter**:
+  + but we treat his reminders as **bothersome**
++ in the preceding **chapter**:
 
 ---
 O Jerusalem, Jerusalem, <br>
@@ -394,6 +388,11 @@ and you were **not willing**!
   + keep us **close** to Him
 + it is **we** who are unwilling
   + trust in our **independence**
++ when God **reminds** us to **adjust** our priorities,
++ we either **ignore** Him, or say:
+  + "you're **interrupting** my daily life"
+  + "your party isn't **that** important to me"
+  + "why must you keep **pestering** me?"
 + again, in **Isaiah**:
 
 ---
@@ -411,14 +410,10 @@ But you were **unwilling**!
 >>>
 + He offers **salvation** + strength
 + as we **return** to Him (= repent)
-  + both humble **stillness**
-  + and faithful **action**
-+ but we **reject** it! 
-+ our **lives** we've built for ourselves
+  + w/both humble **stillness** and faithful **action**
++ but we **don't want** it! 
++ the **lifestyles** we've built for ourselves
   + become **essential** to us
-+ God's continual **invitation** / reminders
-  + **interrupt** our daily life
-  + we become **annoyed**
 + like the **Pharisees**, we are
   + so proud of having the **invitation**
 + but do we actually want to **go**? 
@@ -428,14 +423,12 @@ But you were **unwilling**!
 # Do I **hope** for Christ's **return**, <br> or **cling** to my own lifestyle? 
 
 >>>
-+ complete **upheaval** of way of life
-+ prior to Christ's **return**, increased
++ end times are complete **upheaval** of way of life
++ prior to Christ's **return**, there will be increased
   + **natural** disasters: famine, disease
   + **human** disasters: war, betrayal
-+ our **hope** is not that God 
-  + restores our **"normal"** daily habits
-+ but a far greater **joy**
-  + the joy of the **victorious** King
++ our **hope** is not that God restores our **"normal"** daily habits
++ but a far greater **joy**: the joy of the **victorious** King
 + [pause for discussion]
 
 ---
@@ -451,10 +444,8 @@ But you were **unwilling**!
 2. Those invited just want to get on w/**regular life**
   + **annoyed** at master's reminders
 3. Master's **reaction**:
-  + **extend** invitation to all 
-    + who would **share** His joy
-  + judgment + **shame** for those who 
-    + **rejected** the invitation
+  + **extend** invitation to all who would **share** His joy
+  + judgment + **shame** for those who **rejected**
 
 ---
 Then the master of the house became **angry**<br>
@@ -469,17 +460,14 @@ and **blind** and **lame**.’
 [Luke 14:21 (ESV)](# "ref")
 
 >>>
-+ **angry**: Mt22:7 even more severe
-+ **quickly**, at once: urgency
++ **angry** (even more severe in Mt), w/**urgency**
 + **streets** + alleys of city:
   + both big and **small** streets
-  + **anywhere**, at random
 + **poor**, crippled (injured in limbs),
   + blind, lame (stopped, unable to walk)
 + these who are **needy** are more
-  + **appreciative** of
-  + the Master's **hospitality**
-+ but it doesn't **stop** there! 
+  + **appreciative** of the Master's **hospitality**
++ but he doesn't **stop** there! 
   + there's still **room**, so:
 
 ---
@@ -492,19 +480,14 @@ that my house may be **filled**.
 [Luke 14:23 (ESV)](# "ref")
 
 >>>
-+ **countryside**, farther afield:
-  + not **enough** guests, need more
-  + not necessarily **poor**
-  + **any** + all comers
++ **countryside**, farther afield: not **enough**, need more
+  + not nec. poor, **any** + all comers
 + **compel**: constrain, pressure
-  + might not **know** host
-  + initially **reluctant**
-+ gave the **invited** a chance
-  + i.e., Jews: **churched**
-+ now invites **everyone**
-  + i.e., Gentiles, ends of the **earth**
-+ objective is to **fill** his house:
-  + with those who **share** his joy
+  + might not **know** host, initially **reluctant**
++ gave the **invited** a chance (i.e., Jews: **churched**)
++ now invites **everyone** (i.e., Gentiles, ends of **earth**)
++ objective is to **fill** house w/those who **share** his joy
+  + so that:
 
 ---
 For I tell you, **none** of those men<br>
@@ -514,9 +497,8 @@ who were **invited** shall taste my banquet.
 
 >>>
 + **redemption** is not only about
-  + God's **grace** toward the undeserving
-+ but also God's **judgment** on
-  + those who **reject** his gift
+  + God's **grace** on the undeserving
++ but also God's **judgment** on those who **reject** his gift
 + in Matthew, the king declares:
 
 ---
@@ -561,17 +543,14 @@ In that place there will be<br>
 
 >>>
 + only those w/**wedding** clothes may enter
-  + are the **poor** to buy new clothes?
-+ no, it was the **host** who would 
-  + **give** garments to guests
+  + so are the **poor** to buy new clothes?
++ no, it was the **host** who would **give** garments to guests
   + like wedding **favours** (cf Samson, Jdg14)
   + **extravagance** of clothes indicated wealth of host
-+ so a guest **w/o** wedding clothes means
-  + he **refused** the gift!
++ so guest **w/o** wedding clothes means he **refused** the gift!
 + indicates his **intent** was just a free **meal**
   + didn't **care** about the celebration
-+ **clothes** in Scripture: 
-  + often represent good **deeds** (e.g., Rev7:9)
++ **clothes** in Scrip. often repr. good **deeds** (e.g., Rev7:9)
 + only those w/holy **lives** may enter heaven
   + we **poor** cannot **become** holy on own
 + God **imputes** holiness to us through Christ
@@ -586,14 +565,13 @@ but few are **chosen**.
 [Matthew 22:11-14 (ESV) (p.3/3)](# "ref")
 
 >>>
-+ God's **invitation** is to all
++ God's **invitation** is to everyone,
 + but few are **chosen** ("called-out", church)
   + selected by **preference**
-+ we are selected by God's **grace**
-  + to receive **mercy**
-+ to **cherish** God's presence
-  + as the greatest **treasure**
-+ Examine my own **heart**:
+______
++ we are those selected by God's **grace** to receive **mercy**
++ to **cherish** God's presence as the greatest **treasure**
++ examine our own **hearts**:
 
 ---
 <!-- .slide: data-background="white" -->
@@ -609,10 +587,8 @@ but few are **chosen**.
 + **respond** to the invitation
   + not only to receive **blessings**
   + but to share in God's **joy**
-+ In our hour of **need**
-  + don't cling to our **independence**
-+ **return** to Jesus
-  + He is our **strength** + salvation
++ In our hour of **need**, don't cling to our **independence**
++ **return** to Jesus: He is our **strength** + salvation
 
 ---
 <!-- .slide: <%= bg("unsplash-uhlTPoH2Eb0-banquet_dish_table.jpg") %> -->
@@ -633,3 +609,11 @@ But you were **unwilling**!
 
 ---
 <!-- .slide: <%= bg("unsplash-uhlTPoH2Eb0-banquet_dish_table.jpg") %> class="empty" -->
+
+>>>
++ remember the **joyful** hope we have in Christ
++ not **reject** His pathway of peace
+  + even if it means **yielding** our independence
+  + learning to **trust** Him more
++ gratefully accept His work of **redemption**
+  + extended to people from all **walks** of life
