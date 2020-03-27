@@ -5,10 +5,8 @@
 
 >>>
 + world in midst of **crisis**
-+ new coronavirus is **deadly**,
-  + **contagious**, and worldwide
-  + impacted **jobs**, schooling,
-+ and even **family** life:
++ new coronavirus is **deadly**, contagious, and global
++ impacted **jobs**, schooling, even **family** life:
   + many **elderly** isolated + stressed
   + parents suddenly have to **homeschool** kids
 + natural to ask: is it going to get **better**?
@@ -25,7 +23,7 @@
 + every crisis is a **turning point**:
   + reveals our **hearts**
 + opportunity to reexamine our **priorities**
-  + and find renewed **hope**!
+  + and find hope that is **lasting** + sure
 + let's look to the **Scriptures**,
 + together: **behold** the **Lamb** of God
   + who takes away the **sin** of the world
@@ -75,12 +73,11 @@
   + beware **hardening** against Jesus
   + beware **exalting** oneself
 + show **hospitality** to those who can't repay you
-  + so that you may be **repaid**
-  + at the **resurrection** of the righteous
+  + reward at **resurrection** of righteous
 + at this, a fellow **guest** remarks:
   + how wonderful to **feast** in the kingdom of God!
-  + impl.: how wonderful for **us**
-  + **assume** will enter kingdom of God
++ implied: how wonderful for **us**
+  + **assumes** he will enter kingdom of God
 + today's parable is Jesus' **reply**:
   + don't be so **sure** you're going to be at that feast!
 
