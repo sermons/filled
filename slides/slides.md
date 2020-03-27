@@ -317,11 +317,11 @@ and therefore I **cannot** come."
 + field: buying property, having **possessions**
 + oxen: invest in business, building **career**
 + married: **relationships** / family
-+ all good, **blessings** from God
++ all good **blessings** from God
   + things that normally **fill** our lives
 + COVID19: all these on **hold**
   + **life** more important
-+ but do we only want life to go back to **normal**
++ but do we only want to go back to **normal**
   + return to daily life? 
 
 ---
@@ -339,7 +339,6 @@ and **killed** them.
 >>>
 + beat, humiliated, killed servants:
   + why must you keep **reminding** me?
-+ 
 
 ---
 I was ready to be **sought**<br>
@@ -523,7 +522,7 @@ For many are **called**, but few are **chosen**.
 + we are **undeserving** of God's grace
   + even having been **invited**
 + but not completely **passive**:
-+ we must **respond** to the invitation
+  + we must **respond** to the invitation
   + be **prepared** for the day of His return
 + come to God not only for His **blessings**
   + but to share in His **joy**
