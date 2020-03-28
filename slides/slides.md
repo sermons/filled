@@ -41,7 +41,7 @@
   + "Lord, *open* to us"
   + "I do not *know* where you come from.<br>*Depart* from me!"
 
-[Brandenburg Alps, Austria.  Paul Gilmore](https://unsplash.com/photos/qKIaA41lMjM)
+[Brandenburg Alps, Austria.  Paul Gilmore](https://unsplash.com/photos/qKIaA41lMjM "caption")
 
 >>>
 + In Luke, Jesus **tells** us
